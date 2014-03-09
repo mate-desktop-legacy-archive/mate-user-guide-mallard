@@ -3,12 +3,10 @@
 HELP_ID = mate-help
 
 HELP_MEDIA = \
-	figures/foo.png \
-	figures/bar.png
+	figures/yelp-icon-big.png
 
 HELP_FILES = \
 	legal.xml \
-	foo.page \
-	bar.page
+	index.page
 
 HELP_LINGUAS = 
