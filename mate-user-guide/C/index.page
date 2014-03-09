@@ -6,14 +6,14 @@
 <info>
     <desc>A guide for MATE Desktop users</desc>
 
-    <title type='link'>MATE Help</title>
-    <title type='text'>MATE Help</title>
+    <title type='link'>MATE User Guide</title>
+    <title type='text'>MATE User Guide</title>
     <title role="trail" type="link"><media its:translate="no" type="image" mime="image/png" src="figures/gnome.png"><span its:translate="yes">Help</span></media></title>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 </info>
 
-<title><media its:translate="no" type="image" src="figures/yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE Help</title>
+<title><media its:translate="no" type="image" src="figures/yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE User Guide</title>
 
 <links type="topic" groups="#first"/>
 
