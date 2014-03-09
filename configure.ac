@@ -8,6 +8,6 @@ AM_MAINTAINER_MODE([enable])
 
 AC_OUTPUT([
 Makefile
-mate-help/Makefile
+mate-user-guide/Makefile
 ])
 

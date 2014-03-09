@@ -1,1 +1,1 @@
-SUBDIRS = mate-help
+SUBDIRS = mate-user-guide
