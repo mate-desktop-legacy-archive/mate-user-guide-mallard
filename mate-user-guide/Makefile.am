@@ -3,7 +3,7 @@
 HELP_ID = mate-user-guide
 
 HELP_MEDIA = \
-	figures/yelp-icon-big.png
+	figures/mate-yelp-icon-big.png
 
 HELP_FILES = \
 	legal.xml \
