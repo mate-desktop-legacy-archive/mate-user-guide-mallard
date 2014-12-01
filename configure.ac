@@ -1,4 +1,4 @@
-AC_INIT([mate-user-guide], [1.9.0], [https://github.com/mate-desktop/mate-user-guide/issues/new])
+AC_INIT([mate-user-guide], [1.9.1], [https://github.com/mate-desktop/mate-user-guide/issues/new])
 AM_INIT_AUTOMAKE
 AM_SILENT_RULES([yes])
 
