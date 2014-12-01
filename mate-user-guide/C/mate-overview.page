@@ -1,0 +1,42 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="mate-overview">
+
+  <info>
+  
+    <link type="guide" xref="index" group="mate-overview" />
+    
+    <title role="trail" type="link">Overview</title>
+    
+    <desc>An overview of the different parts of the desktop.</desc>
+    <revision pkgversion="0.0.1" date="2014-11-30" status="initial"/>
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <email>mate-doc-team@mate-desktop.org</email>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Overview of the desktop</title>
+
+<comment>
+  <cite date="2014-12-01">MotoHosss</cite>
+  <p> Initial Port more work is needed on this page</p>
+</comment>
+
+<links type="topic" style="2column"/>
+
+<section id="desktop" style="2column">
+ <title>The Desktop</title>
+</section>
+
+<section id="apps" style="2column">
+ <title>Applications and windows</title>
+</section>
+
+<section id="files" style="2column">
+ <title>Files and folders</title>
+</section>
+
+</page>
