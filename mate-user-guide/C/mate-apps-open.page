@@ -8,7 +8,7 @@
     <link type="guide" xref="mate-overview" />
     
     <!-- <desc>Launch apps from the panel or menu overview.</desc> -->
-    <revision pkgversion="0.0.1" date="2014-11-30" status="initial"/>
+    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
