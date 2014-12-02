@@ -9,7 +9,7 @@
     <desc>A visual introduction to your desktop, the top panel, and the
     bottom panel.</desc>
     
-    <revision pkgversion="0.0.1" date="2014-11-30" status="initial"/>
+    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
