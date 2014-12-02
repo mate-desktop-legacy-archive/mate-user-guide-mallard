@@ -8,10 +8,11 @@
     <link type="guide" xref="mate-overview#desktop" />
     <link type="seealso" xref="power-turnoffbutton" />
 
-    <desc>Learn how to leave your user account, by logging out, switching users, and so on.</desc>
+    <desc>Learn how to leave your user account, by logging out, switching users,
+and so on.</desc>
     <!-- Should this be a guide which links to other topics? -->
     
-    <revision pkgversion="0.0.1" date="2014-11-30" status="initial"/>
+    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
@@ -27,8 +28,8 @@
   <p> Initial Port more work is needed on this page - more links.</p>
 </comment>
 
-<p>When you've finished using your computer, you can turn it off, suspend it (to save power),
-or leave it powered on and just log out.</p>
+<p>When you've finished using your computer, you can turn it off, suspend it
+(to save power),or leave it powered on and just log out.</p>
 
 <section id = "logout">
 <title>Log out or switch users</title>
