@@ -2,10 +2,12 @@ mate-user-guide
 ===============
 
 This module is for end-user documents with general MATE applicability 
-only.  It will be shipped as the mate-user-guide package.
+only.  It will be shipped as the mate-user-guide package. It is possible
+that "Help" and or links to individaul packages/modules/applications will show
+up here as well.
 
 
-Documentation for Doc Writers
+Documentation for Doc Writers/Contributors
 -----------------------------
 
 For help on editing documentation, see the following pages:
@@ -15,12 +17,17 @@ If you want to hack on the documentation, don't forget to Join the MATE
 Documentation Project:
 http://wiki.mate-desktop.org/dev-doc
 
+Please do not forget to check the status here:
+http://wiki.mate-desktop.org/status:doc-team
+
+
 Directory Structure
 -------------------
 
 Please respect the directory structure:
-  mate-user-guide/<docname>/<locale>/<docname>.xml
-  mate-user-guide/<docname>/<locale>/figures/
+  mate-user-guide/<docname>/C/<docname>.page(stub,tmpl)
+  mate-user-guide/<docname>/C/figures/
+  mate-user-guide/<docname>/C/template/
 
 In some cases, it may make sense to nest things one level deeper.  However,
 do not nest things less deep.
