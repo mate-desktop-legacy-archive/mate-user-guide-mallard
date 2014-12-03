@@ -20,6 +20,14 @@ http://wiki.mate-desktop.org/dev-doc
 Please do not forget to check the status here:
 http://wiki.mate-desktop.org/status:doc-team
 
+Any file that is edited needs to have the following in the header below the
+<revision...> tag, above any similiar entries, preferably separated by a blank
+line on both sides. Of course your own entry may go directly beneath this one,
+with an <email> tag if desired:
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+    </credit>
 
 Directory Structure
 -------------------
@@ -31,3 +39,5 @@ Please respect the directory structure:
 
 In some cases, it may make sense to nest things one level deeper.  However,
 do not nest things less deep.
+
+The entire MATE Development Team appreciates your help and interest.
