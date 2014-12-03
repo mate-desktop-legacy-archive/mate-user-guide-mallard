@@ -1,0 +1,39 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="shell-windows-lost">
+
+  <info>
+  
+    <link type="guide" xref="shell-windows#working-with-windows"/>
+    
+    <desc>Check the activities overview or look at other workspaces.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Find a lost window</title>
+<p>You may have put the window on a different workspace, or it might be hidden behind another window. You can find it again by using the activities overview.</p>
+
+<steps>
+ <item>
+  <p>Open the <link xref="shell-terminology">activities overview</link> and make sure the <gui>Windows</gui> view is selected (rather than <gui>Applications</gui>). If the window you're looking for is on the <link xref="shell-windows#working-with-workspaces">workspace</link> that you're currently using, it will be displayed here. Simply click the window once you've found it to display it again.</p>
+ </item>
+ <item>
+  <p>If it is not displayed here, it might be on a different workspace. Click on the different workspaces (in the list on the right-hand side of the screen) to try to find your window.</p>
+ </item>
+ <item>
+  <p>You can also right-click on the application in the dash. All open windows of an application will be listed. You can click on the window you wish to switch to in the list.</p>
+ </item>
+</steps>
+
+<p>A faster method of finding a window is to use the <keyseq><key>Alt</key><key>Tab</key></keyseq> window switcher. Hold down the <key>Alt</key> key and press <key>Tab</key>. Still holding-down the <key>Alt</key> key, press <gui>Tab</gui> to cycle through the list of open windows, or <keyseq><key>Tab</key><key>Shift</key></keyseq> to cycle through it backwards.</p>
+
+<p>If an application has multiple open windows, there is an arrow below the application icon which is seen when tabbing through the apps. Pressing the down arrow on your keyboard will allow you to tab through the multiple windows.</p>
+
+</page>

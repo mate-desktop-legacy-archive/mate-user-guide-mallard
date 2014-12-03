@@ -1,0 +1,51 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="printing-setup-default-printer">
+
+  <info>
+    <link type="guide" xref="hardware#printing" />
+    <link type="guide" xref="printing#setup" />
+
+    <desc>Pick the printer that you use most often.</desc>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email>jwcampbell@gmail.com</email>
+    </credit>
+    <credit type="author">
+      <name>Paul W. Frields</name>
+      <email>stickster@gmail.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+
+  </info>
+
+  <title>Set the default printer</title>
+  <p>If you have more than one printer available, you can select which will be your default printer. You may want to pick the printer you use most often.</p>
+  <note>
+    <p>You need administrative privileges on the system to set the default printer.</p>
+  </note>
+
+  <steps>
+    <item>
+      <p>Click your name on the top bar and select <gui>System Settings</gui>.</p>
+    </item>
+    <item>
+      <p>Click <gui>Printers</gui>.</p>
+    </item>
+    <item>
+      <p>Select your desired default printer from the list of available printers.</p>
+    </item>
+    <item>
+      <p>Click the <gui>Unlock</gui> button in the bottom-left corner and enter your password.</p>
+    </item>
+    <item>
+      <p>Select the <gui>Default</gui> option.</p>
+    </item>
+  </steps>
+
+  <p>When you print in an application, the default printer is automatically used, unless you choose a different printer for that specific output.</p>
+</page>

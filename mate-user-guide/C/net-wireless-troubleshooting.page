@@ -1,0 +1,40 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="net-wireless-troubleshooting">
+  <info>
+    <link type="guide" xref="net#wireless" group="first"/>
+    <link type="guide" xref="hardware#problems" group="first"/>
+    <link type="next" xref="net-wireless-troubleshooting-initial-check"/>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+
+    <credit type="author">
+      <name>Contributors to the Ubuntu documentation wiki</name>
+    </credit>
+
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+
+    <desc>Troubleshoot your connection to a wireless network.</desc>
+  </info>
+
+<title>Resolve problems with wireless connections</title>
+
+  <p>This guide is designed to help you troubleshoot and resolve problems with accessing a wireless network.</p>
+
+  <note><p>Due to the technical nature of trouble-shooting network problems, this guide contains some commands that will need to be entered into a <app>terminal</app> window. While this may seem intimidating at first, do not be afraid! The guide will direct you at each step.</p></note>
+
+  <p>We will proceed through the following tasks to connect your computer to the internet:</p>
+  <list style="numbered">
+    <item><p>Performing an initial check</p></item>
+    <item><p>Gathering information about your hardware</p></item>
+    <item><p>Checking your hardware</p></item>
+    <item><p>Attempting to create a connection to your wireless router</p></item>
+    <item><p>Performing a check of your modem and router</p></item>
+  </list>
+  <p>To get started, click on the <em>Next</em> link in the upper-right portion of the page. This link, and others like it on following pages, will take you through each step in the guide.</p>
+   
+</page>

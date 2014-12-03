@@ -1,0 +1,53 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="files">
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <link type="guide" xref="index" group="files"/>
+    <link type="guide" xref="shell-overview#files"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <title type="link" role="trail">Files</title>
+
+    <desc>
+      <link xref="files-search">Searching</link>,
+      <link xref="files-delete">deleted files</link>,
+      <link xref="files#backup">backups</link>,
+      <link xref="files#removable">removable drives</link>...
+   </desc>
+  </info>
+
+<title>Files, folders &amp; search</title>
+
+<media type="image" src="figures/nautilus.png" style="floatright" width="250" height="178">
+  <p><app>Nautilus</app> file manager</p>
+</media>
+
+<links type="topic" style="linklist nodesc bold">
+  <title>Common tasks</title>
+</links>
+
+<links type="topic" groups="more" style="linklist nodesc bold">
+  <title>More topics</title>
+</links>
+
+<section id="removable">
+  <title>Removable drives and external disks</title>
+  <links type="topic" style="2column"/>
+</section>
+
+<section id="backup">
+  <title>Backing up</title>
+  <links type="topic" style="2column"/>
+</section>
+
+<section id="faq">
+  <title>Tips and questions</title>
+  <links type="topic" style="2column"/>
+</section>
+
+</page>

@@ -1,0 +1,40 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="net-findip">
+  <info>
+    <link type="guide" xref="net"/>
+    <link type="seealso" xref="net-what-is-ip-address"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email>jwcampbell@gmail.com</email>
+    </credit>
+    <desc>Knowing your IP address can help you troubleshoot network problems.</desc>
+  </info>
+
+  <title>Find your IP address</title>
+
+  <p>Knowing your IP address can help you to troubleshoot problems with your internet connection. You may be surprised to learn that you have <em>two</em> IP addresses: an IP address for your computer on the internal network and an IP address for your computer on the internet.</p>
+
+  <p>Find your internal IP address:</p>
+  <steps>
+    <item><p>Right-click on the <gui>network icon</gui> in the <gui>top bar</gui>.</p></item>
+    <item><p>Select <gui>Connection information</gui>.</p></item>
+    <item><p>Your internal IP address will be displayed as the <gui>IP Address</gui>.</p></item>
+  </steps>  
+
+  <p>Click <gui>Close</gui> to close the <gui>Connection Information</gui> window.</p>
+
+  <p>Find your external, internet IP address:</p>
+  <steps>
+    <item><p>Visit <link href="http://whatismyipaddress.com/">whatismyipaddress.com</link>.</p></item>
+    <item><p>The site will display your external IP address for you</p></item>
+  </steps>
+ 
+</page>

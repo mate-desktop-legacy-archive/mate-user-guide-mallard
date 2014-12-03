@@ -1,0 +1,33 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="shell-apps-favorites">
+
+  <info>
+    <link type="seealso" xref="shell-apps-open"/>
+    <link type="guide" xref="shell-overview#apps"/>
+    
+    <desc>Add (or remove) frequently-used program icons on the dash.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Pin your favorite apps to the dash</title>
+
+<p>To add an application to the <link xref="shell-terminology">dash</link> for easy access:</p>
+ <steps>
+  <item><p>Open the <link xref="shell-terminology">Activities overview</link>.</p></item>
+  <item>
+   <p>Find the application you want to add to the dash by clicking on <gui>Applications</gui>. Right-click on the application icon and select <gui>Add to Favorites</gui>.</p>
+   <p>Alternately, you can click-and-drag the icon into the dash.</p>
+  </item>
+  </steps>
+
+<p>To remove an application icon from the dash, right click on the application icon and select <gui>Remove from Favorites</gui>. You can also drag the application icon to the Trash icon on the dash to remove it.</p>
+
+</page>

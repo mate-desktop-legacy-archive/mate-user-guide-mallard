@@ -1,0 +1,45 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide" style="task"
+      id="bluetooth-turn-on-off">
+
+  <info>
+    <link type="guide" xref="hardware#bluetooth"/>
+    <desc>Enable or disable the Bluetooth device on your computer.</desc>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email>jwcampbell@gmail.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+  </info>
+
+<title>Turn Bluetooth on or off</title>
+
+<p>
+You can turn <app>Bluetooth</app> on to send and receive files, but turn it off to conserve power.
+</p>
+
+<figure>
+  <desc>The Bluetooth icon and menu can be found on the top bar.</desc>
+  <media type="image" src="figures/bluetooth-menu.png"/>
+</figure>
+
+<p>
+To turn <app>Bluetooth</app> on, click the <app>Bluetooth</app> icon in the top bar, then toggle the <gui>Bluetooth</gui> switch so that it reads as <gui>ON</gui>. 
+</p> 
+
+<p>Many laptop computers have a hardware switch or key combination to turn
+Bluetooth on and off. If the Bluetooth hardware is turned off, you will not
+see a Bluetooth icon in the top bar. Look for a switch on your computer or
+a key on your keyboard. The keyboard key is often accessed with the help of the
+<key>Fn</key> key.</p>
+
+<note style="tip"><p>If you are connecting to another <app>Bluetooth</app> device for the first time, set the <gui>Visibility</gui> switch to <gui>ON</gui>. This allows your device to be seen by other <app>Bluetooth</app> devices.</p></note>
+
+<p>To turn <app>Bluetooth</app> off, change the <gui>Bluetooth</gui> switch to the <gui>OFF</gui> position.
+</p>
+
+</page>

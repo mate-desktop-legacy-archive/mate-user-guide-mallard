@@ -1,0 +1,119 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="ui"
+      id="nautilus-file-properties-basic">
+
+  <info>
+    <link type="guide" xref="files" group="more"/>
+
+   <desc>View basic file information, set permissions, and choose
+   default applications.</desc>
+
+   <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+   <credit type="author">
+     <name>Tiffany Antopolski</name>
+     <email>tiffany@antopolski.com</email>
+   </credit>
+   <credit type="author">
+     <name>Shaun McCance</name>
+     <email>shaunm@gnome.org</email>
+   </credit>
+   <license>
+     <p>Creative Commons Share Alike 3.0</p>
+   </license>
+
+  </info>
+  <title>File properties</title>
+
+  <p>You can view information about a file in the file properties dialog.
+  To view the properties for a file or folder, right-click it and select
+  <gui>Properties</gui>. You can also select the file and press
+  <guiseq><gui>Alt</gui><gui>Enter</gui></guiseq>.</p>
+
+  <p>The file properties dialog shows you information like the file type,
+  size, and modification time. If you need this information often, you
+  can have it displayed in <link xref="nautilus-list">list view columns</link>
+  or <link xref="nautilus-display#icon-captions">icon captions</link>.</p>
+
+  <p>The file properties dialog also allow you to
+  <link xref="nautilus-file-properties-permissions">set file permissions</link>
+  and <link xref="files-open">choose applications to open files</link>.</p>
+
+  <p>For certain types of files, such as images and videos, there will be
+  an extra tab that provides information like the dimensions, duration,
+  and codec.</p>
+
+  <comment>
+    <cite date="2011-04-04">shaunm</cite>
+    <p>This page is intentionally written to give you some overview of
+    the other tabs, because I happen to know that in 3.0 it's the target
+    of the Help button in the properties dialog, regardless of the tab
+    you're on.</p>
+  </comment>
+
+ <terms>
+ <title>Basic properties</title>
+  <item>
+    <title><gui>Name</gui></title>
+    <p>The name of the file. You can rename the file by changing this field.
+    You can also rename a file outside the properties window. See
+    <link xref="files-rename"/>.</p>
+  </item>
+  <item>
+    <title><gui>Type</gui></title>
+    <p>The type of the file, such as PDF document, OpenDocument Text, or JPEG
+    image. The MIME type of the file is shown in parentheses. The file type
+    determines which applications can open the file, among other things. See
+    <link xref="files-open"/> for more information.</p>
+  </item>
+
+  <item>
+    <title>Contents</title>
+    <p>This field is displayed if you are looking at the properties of a folder. It shows the number of items in the folder.  If the folder includes other folders, each inner folder is counted as one item, even if it contains further items. Each file is also counted as one item.  If the folder is empty, the contents will display <gui>nothing</gui>.</p>
+  </item>
+
+  <item>
+    <title>Size</title>
+    <p>This field is displayed if you are looking at an item other than a folder.  The size may be stated as bytes, KB, MB, or GB.  In the case of the last three, the size in bytes will be stated in parentheses.</p>
+    <note>
+      <list style="compact">
+        <item><p>1 KB = 1 024 bytes</p></item>
+        <item><p>1 MB = 1 048 576 bytes</p></item>
+        <item><p>1 GB = 1 073 741 824 bytes</p></item>
+      </list>
+    </note>
+  </item>
+
+  <item>
+    <title>Location</title>
+    <p>The absolute path to your item.</p>
+  </item>
+
+  <item>
+    <title>Volume</title>
+    <p>The file system or device that the file is stored on. This shows you
+    the storage medium the file is on, such as a
+    <link xref="disk-partitions">disk partition</link> on your computer, an
+    external drive or optical disc, or a
+    <link xref="nautilus-connect">network share or file server</link>.</p>
+  </item>
+
+  <item>
+    <title>Free Space</title>
+    <p>For folders, the amount of free space left for new files on the
+    containing volume.</p>
+  </item>
+
+
+  <item>
+    <title>Accessed</title>
+    <p>The date and time when the file was last opened.</p>
+  </item>
+
+  <item>
+    <title>Modified</title>
+    <p>The date and time when the file was last changed and saved.</p>
+  </item>
+ </terms>
+
+
+</page>

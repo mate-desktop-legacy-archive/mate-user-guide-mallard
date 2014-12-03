@@ -1,0 +1,25 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="net-wireless-airplane">
+  <info>
+    <link type="guide" xref="net#wireless"/>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+
+    <desc>Click the network icon on the top panel and switch Airplane Mode to ON.</desc>
+  </info>
+
+<title>Turn off wireless (airplane mode)</title>
+
+<p>If you have your computer on an airplane (or some other area where wireless connections are not allowed), you should switch off your wireless. You may also want to switch off your wireless for other reasons; to save battery power, for example.</p>
+
+<p>To do this, click the network icon on the top panel and switch <gui>Airplane Mode</gui> to <gui>ON</gui>. This will turn off your wireless connection until you switch off airplane mode again.</p>
+
+<note><p>Using <em>Airplane Mode</em> will completely turn off both wireless and Bluetooth connections.</p></note>
+
+</page>

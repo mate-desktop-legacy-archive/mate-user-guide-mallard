@@ -1,0 +1,30 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task a11y"
+      id="a11y-right-click">
+  <info>
+    <link type="guide" xref="a11y#mobility" group="clicking"/>
+ 
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    
+    <credit type="author">
+      <name>Phil Bull</name>
+      <email>philbull@gmail.com</email>
+    </credit>
+
+    <desc>Press and hold the left mouse button to right-click.</desc>
+  </info>
+
+<title>Simulate a right mouse click</title>
+
+<p>You can make it so that, instead of clicking the right mouse button, you can just hold-down the left mouse button for a while to do the same thing. This is useful if you find it difficult to move your fingers individually on one hand, or if you have a specialized mouse.</p>
+
+<p>To switch this feature on, click your name on the top panel, select <gui>System Settings</gui> and open <gui>Universal Access</gui>. Then, go to the <gui>Pointing and Clicking</gui> tab and switch <gui>Simulated Secondary Click</gui> to <gui>ON</gui>.</p>
+
+<p>You can change how long you must hold down the left mouse button for before it is registered as a right click. In the <gui>Pointing and Clicking</gui> tab, change the <gui>acceptance delay</gui> under <gui>Simulated Secondary Click</gui>.</p>
+
+</page>

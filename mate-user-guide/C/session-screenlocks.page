@@ -1,0 +1,36 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="problem"
+      id="session-screenlocks">
+
+  <info>
+    <link type="guide" xref="prefs-display"/>
+    <link type="guide" xref="hardware-problems-graphics"/>
+    <link type="seealso" xref="shell-exit"/>
+    
+    <desc>Change how long to wait before locking the screen in the <gui>Screen</gui> settings.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>The screen locks itself too quickly</title>
+
+<p>If you leave for computer for a few minutes, the screen will automatically lock itself so you have to enter your password to start using it again. This is done for security reasons (so no-one can mess with your work if you leave the computer unattended), but it can be annoying if the screen locks itself too quickly.</p>
+
+<p>To wait for a longer period before automatically locking the screen:</p>
+
+  <steps>
+    <item><p>Click your name on the top bar and select <gui>System Settings</gui>.</p></item>
+    <item><p>Select <gui>Screen</gui>.</p></item>
+    <item><p>Change the value in the <gui>Lock screen after</gui> drop-down list.</p></item>
+  </steps>
+
+<note style="tip">
+ <p>If you don't ever want the screen to lock itself automatically, switch <gui>Lock</gui> off.</p>
+</note>
+
+</page>

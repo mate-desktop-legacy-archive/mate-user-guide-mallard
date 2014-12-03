@@ -1,0 +1,26 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="net-proxy">
+  <info>
+    <link type="guide" xref="net"/>
+    <link type="guide" xref="web#connections"/>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Phil Bull</name>
+      <email>philbull@gmail.com</email>
+    </credit>
+
+    <desc>A proxy filters websites that you look at, usually for control or security purposes.</desc>
+  </info>
+
+<title>What is a proxy?</title>
+
+<p>A <em>web proxy</em> filters websites that you look at. They are commonly used in businesses and at public wireless hotspots to control what websites you can look at, prevent you from accessing the internet without logging-in, or to do security checks on websites.</p>
+
+<p>When you go to a website, the text and images on that website pass through the proxy first before reaching your computer. The proxy will scan the contents of the website and will decide whether to display it or whether to show you a different page, for example.</p>
+
+<p>An example of where proxies are commonly used is in universities. When a student connects to the university's wireless network and tries to visit a website, the proxy will instead redirect them to a log-in page. They will then log-in to the network and can go to the page they were trying to look at. Someone who is not a student will get the same log-in page but will not have log-in details, so will be unable to browse the web. This stops people who are not authorized from using the connection.</p>
+
+</page>

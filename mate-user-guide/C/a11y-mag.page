@@ -1,0 +1,28 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task a11y"
+      id="a11y-mag">
+  <info>
+    <link type="guide" xref="a11y#vision" group="lowvision"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <desc>Zoom in on your screen so it's easier to see things.</desc>
+  </info>
+
+  <title>Magnify the screen area</title>
+
+<p>Magnifying the screen is not just enlarging the <link xref="a11y-font-size">text size</link>.  This feature is like having a magnifying glass, allowing you to move around by zooming in on parts of the screen.</p>
+
+  <steps>
+    <item><p>Click on the universal access icon in the top panel.</p></item>
+    <item><p>Turn <gui>Zoom</gui> <gui>ON</gui>.</p></item>
+    <item><p>Part of the screen will immediately become magnified.</p></item>
+    <item><p>You can now move around the screen area. By moving your mouse to the edges of the screen, you will move the magnified area in different directions, allowing you to view your area of choice.</p></item>
+  </steps>
+
+</page>

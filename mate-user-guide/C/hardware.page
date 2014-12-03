@@ -1,0 +1,78 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide" style="task"
+      id="hardware">
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <link type="guide" xref="index" group="hardware"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <title type="link" role="trail">Hardware</title>
+
+    <desc>
+      <link xref="hardware#problems">Hardware problems</link>,
+      <link xref="hardware#printing">printers</link>,
+      <link xref="hardware#scanning">scanners</link>,
+      <link xref="hardware#graphics">graphics cards</link>,
+      <link xref="hardware#power">power settings</link>,
+      <link xref="hardware#bluetooth">Bluetooth</link>,
+      <link xref="hardware#disk">disk</link>...
+    </desc>
+  </info>
+
+<title>Hardware &amp; drivers</title>
+
+<links type="topic" style="linklist" groups="driver">
+  <title>Drivers</title>
+</links>
+
+<links type="topic" style="linklist">
+  <title>Other topic groups</title>
+</links>
+
+<section id="problems" style="2column">
+  <info>
+    <title type="link" role="trail">Troubleshooting</title>
+  </info>
+ <title>Troubleshooting hardware problems</title>
+</section>
+
+<section id="printing" style="2column">
+ <title>Printing</title>
+</section>
+
+<!--
+<section id="scanning" style="2column">
+ <title>Scanning</title>
+</section>
+
+<section id="graphics" style="2column">
+ <title>Graphics cards</title>
+</section>
+-->
+
+<section id="power" style="2column">
+  <info>
+    <title type="link" role="trail">Power</title>
+  </info>
+  <title>Power and batteries</title>
+</section>
+
+<section id="bluetooth" style="2column">
+ <title>Bluetooth</title>
+</section>
+
+<section id="disk" style="2column">
+ <info><title type="text">Disks</title></info>
+ <title>Hard disks and other storage devices</title>
+</section>
+
+<section id="auth" style="2column">
+ <title>Smart cards and fingerprint readers</title>
+</section>
+
+</page>

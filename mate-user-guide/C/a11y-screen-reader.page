@@ -1,0 +1,30 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="a11y"
+      id="a11y-screen-reader">
+  <info>
+    <link type="guide" xref="a11y#vision" group="blind"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <desc>Use the <app>Orca</app> screen reader to speak the user interface.</desc>
+  </info>
+
+  <title>Read screen aloud</title>
+
+  <p>GNOME provides the <app>Orca</app> screen reader to speak the user
+  interface. Depending on how you installed GNOME, you might not have
+  Orca installed. <link href="install:orca">Install Orca</link>, then
+  refer to the <link href="ghelp:orca">Orca Help</link> for more
+  information.</p>
+
+  <comment>
+    <cite date="2011-04-04">shaunm</cite>
+    <p>I'd like this page to have more on how to start Orca, then pass
+    off to the Orca help for more information.</p>
+  </comment>
+</page>

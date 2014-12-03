@@ -1,0 +1,25 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="problem"
+      id="mouse-wakeup">
+
+  <info>
+    <link type="guide" xref="mouse#problems"/>
+    <desc>If you have to wiggle or click the mouse before it responds.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>Mouse has a delay before it will work</title>
+  
+  <p>
+  Wireless and optical mice, as well as touchpads on laptops, may need to "wake up" before they will work. They automatically go to sleep when not in use to save battery power. To wake up your mouse or touchpad you can click on a mouse button or wiggle the mouse.
+  </p>
+  <p>
+  Laptop touchpads sometimes have a delay after you stop typing before they will start working.  This is to prevent you from accidentally touching the touchpad with your palm while typing. See <link xref="mouse-disabletouchpad"/> for details.
+	</p>
+</page>

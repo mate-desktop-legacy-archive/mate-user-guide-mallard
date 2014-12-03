@@ -1,0 +1,44 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="net-wireless-troubleshooting-hardware-info">
+  <info>
+    <link type="next" xref="net-wireless-troubleshooting-hardware-check"/>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+
+    <credit type="author">
+      <name>Contributors to the Ubuntu documentation wiki</name>
+    </credit>
+
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+
+    <desc>Troubleshoot your connection to a wireless network.</desc>
+  </info>
+
+<title>Resolve problems with wireless connections</title>
+
+<section id="net-hardware-check">  
+  <title>Gather information about your computer and network hardware:</title>
+  <p>To best troubleshoot your wireless connection you will need some items and some information. Although you might not have all of these items, collect what you can:</p>
+    <list>
+      <item><p>Your laptop and wireless router (of course!)</p></item>
+      <item><p>The packaging and contents for your device (particularly the user guide for your router)</p></item>
+      <item><p>A driver disc - even if it only contains Windows drivers</p></item>
+      <item><p>If possible, have access to an alternate working internet connection for downloading software and drivers</p></item>
+    </list>
+
+  <p>It is also helpful to have the following information available. Again, just collect what you can:</p>
+    <list>
+      <item><p>The name of the manufacturer for your computer, wireless adapter and router</p></item>
+      <item><p>The complete model number of your computer and router</p></item>
+      <item><p>Any version numbers that may be printed on your devices or their packaging. These can be especially helpful, so look carefully.</p></item>
+      <item><p>Anything on the driver disc that identifies either the device itself or the components it uses. Wireless implementation chips are often operated by firmware, a type of software written specifically for that chip.</p></item>
+    </list>
+ <p>Once you have these items and this information, click <gui>Next</gui> in the upper-right portion of this page to continue.</p>
+</section>
+
+</page>

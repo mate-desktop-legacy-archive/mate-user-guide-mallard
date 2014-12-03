@@ -1,0 +1,25 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="power-batteryslow">
+
+  <info>
+    <link type="guide" xref="power#battery"/>
+    <desc>Some laptops intentionally slow down when they are running on battery.</desc>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Why is my laptop slow when it's on battery?</title>
+
+<p>Some laptops intentionally slow down when they are running on battery in order to conserve power. The laptop's processor (CPU) switches to a slower speed, and processors use less power when running slower, so the battery should last longer.</p>
+
+<p>This feature is called <em>CPU frequency scaling</em>.</p>
+
+</page>

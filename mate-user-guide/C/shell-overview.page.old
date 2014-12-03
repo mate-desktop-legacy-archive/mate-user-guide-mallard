@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="shell-overview">
+
+  <info>
+  
+    <link type="guide" xref="index" group="shell-overview" />
+    
+    <title role="trail" type="link">Overview</title>
+    
+    <desc>An overview of the different parts of the desktop.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Overview of the desktop</title>
+
+<links type="topic" style="2column"/>
+
+<section id="desktop" style="2column">
+ <title>The Desktop</title>
+</section>
+
+<section id="apps" style="2column">
+ <title>Applications and windows</title>
+</section>
+
+<section id="files" style="2column">
+ <title>Files and folders</title>
+</section>
+
+</page>

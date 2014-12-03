@@ -1,0 +1,39 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="shell-session-status">
+
+  <info>
+  
+    <link type="guide" xref="shell-overview#desktop" />
+    <link type="guide" xref="web#chat" />
+    
+    <desc>Change your chat status and hide notifications.</desc>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Change your availability</title>
+
+<p>If you're working on something and don't want to be bothered, you
+can change your status to <gui>Busy</gui>. Just click your name on the
+top bar and select <gui>Busy</gui>.</p>
+
+<p>When you're marked busy, most notifications will not pop up at the
+bottom of the screen. Very important notifications, such as when your
+battery is critically low, will still pop up. Notifications will still
+be available in the messaging tray when you move your mouse to the
+bottom right corner, and they will be shown to you when you mark
+yourself available again.</p>
+
+<p>If you use GNOME's built-in instant messaging features, this will
+also change your availability to your chat contacts, so they know
+not to disturb you.</p>
+
+</page>

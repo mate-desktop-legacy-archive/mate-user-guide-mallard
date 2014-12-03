@@ -1,0 +1,33 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="net-fixed-ip-address">
+  <info>
+    <link type="guide" xref="net#wired"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email>jwcampbell@gmail.com</email>
+    </credit>
+
+    <desc>Using a static IP address can make it easier to administer some network services.</desc>
+  </info>
+
+  <title>Create a connection with a fixed IP address</title>
+
+  <note><p>This article explains how to create a fixed (or static) IP address on your local network. Depending on the plan you have with your Internet service provider (or ISP), you may or may not have a fixed IP address on the internet. If you are not sure which type of connection you have from your service provider, contact your provider for more information.</p></note>
+  <p>Here is how to create a fixed IP address on your network:</p>
+<list type="numbered">
+<item><p>Make sure that your ethernet cable is plugged into the computer.</p></item>
+<item><p>Click the <gui>network icon</gui> in the <gui>top bar</gui>, and select <gui>Network Settings</gui>.</p></item>
+<item><p>Select <gui>Wired</gui> from the list of connection types, and then click <gui>Options</gui>.</p></item>
+<item><p>Click on the <gui>IPv4 Settings</gui> tab.</p></item>
+<item><p>Change the <gui>Method</gui> to <em>Manual</em>.</p></item>
+<item><p>If no connection information exists, or if you want to set up a new connection, click <gui>Add</gui>.</p></item>
+<item><p>Enter the desired <em>IP Address</em>, <em>Net Mask</em>, and <em>Gateway</em> information into the appropriate boxes.</p></item>
+<item><p>If necessary, enter desired <em>Domain Name Server</em> address into the <gui>DNS servers</gui> box.</p></item>
+<item><p>Click <gui>Save</gui>.</p></item>
+<item><p>Close the network settings window.</p></item>
+</list>
+
+</page>

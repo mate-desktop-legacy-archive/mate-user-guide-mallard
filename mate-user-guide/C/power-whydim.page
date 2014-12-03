@@ -1,0 +1,38 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="power-whydim">
+
+  <info>
+    <link type="guide" xref="power#battery"/>
+    <link type="guide" xref="hardware-problems-graphics"/>
+    
+    <desc>When your laptop is running on battery, the screen will dim when the computer is idle in order to save power.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Why does my screen go dim after a while?</title>
+
+<comment><cite date="2011-04-04">shaunm</cite>
+<p>We have a few disparate pages on this. We should consider consolidating
+or rethinking how we cross-link them.</p></comment>
+
+<p>When your laptop computer is running on battery, the screen will dim when the computer is idle in order to save power. When you start using the computer again, the screen will brighten.</p>
+
+<p>You can stop the screen from dimming itself:</p>
+<steps>
+ <item>
+  <p>Click your name on the top bar and click <gui>System Settings</gui>.</p>
+ </item>
+ 
+ <item>
+  <p>Open <gui>Screen</gui> and uncheck <gui>Dim screen to save power</gui>.</p>
+ </item>
+</steps>
+
+</page>

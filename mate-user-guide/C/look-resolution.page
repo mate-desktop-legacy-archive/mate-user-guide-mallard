@@ -1,0 +1,48 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="look-resolution">
+
+  <info>
+    <link type="guide" xref="prefs-display"/>
+    <link type="guide" xref="hardware-problems-graphics"/>
+    <link type="seealso" xref="look-display-fuzzy"/>
+    
+    <desc>Change the resolution of the screen and its orientation (rotation).</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    <credit type="author">
+      <name>Natalia Ruz Leiva</name>
+      <email>nruz@alumnos.inf.utfsm.cl </email>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info> 
+
+<title>Change the size/rotation of the screen</title>
+
+<p>You can change how big (or how detailed) things appear on the screen by changing the <em>screen resolution</em>. You can change which way up things appear (for example, if you have a rotating display) by changing the <em>rotation</em>.</p>
+
+<p>To change either of these options, click on your name on the top bar and choose <gui>System Settings</gui>. Go to the Hardware section and open <gui>Displays</gui>.</p>
+
+<note style="tip">
+ <p>When you use another display, like a projector, it should be detected automatically so you can change its settings in the same way as your usual display. If this does not happen, just click <gui>Detect Displays</gui>.</p>
+</note>
+
+<section id="resolution"> 
+<title>Resolution</title>
+<p>The resolution is the number of pixels (dots on the screen) in each direction that can be displayed. </p>
+<p>You can choose the one you prefer from the options in the drop-down menu. 
+ Notice that if you choose one that is not the right for your screen it may <link xref="look-display-fuzzy">look fuzzy or pixelated</link>.</p>
+<p>To save the changes, click <gui>Apply</gui>. If the screen goes blank, wait for a minute and the settings will be returned to their previous values. Otherwise, click <gui>Keep Settings</gui> in the window that appears.</p>
+</section>
+
+<section id="rotation">
+<title>Rotation</title>
+<p>There are some laptops that can rotate physically their screens in many directions, so it is useful to be able to change the display rotation. You can choose the rotation you want for your screen from the drop-down menu.</p>
+
+<p>When you've selected the one you prefer, click <gui>Apply</gui>.</p>
+</section>
+
+</page>

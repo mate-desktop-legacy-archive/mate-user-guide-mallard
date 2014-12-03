@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="tip"
+      id="net-macaddress">
+  <info>
+    <link type="guide" xref="net"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email>jwcampbell@gmail.com</email>
+    </credit>
+
+    <desc>The unique code assigned to network hardware.</desc>
+  </info>
+
+  <title>What is a MAC address?</title>
+
+  <p>A <em>MAC address</em> is the unique code that is assigned by the manufacturer to a piece of network hardware (like a wireless card or an ethernet card). <em>MAC</em> stands for <em>Media Access Control</em>, and each code is intended to be unique to a particular device.</p>
+
+  <p>A MAC address consists of six sets of two characters, each separated by a colon. <code>00:1B:44:11:3A:B7</code> is an example of a MAC address.</p>
+
+  <p>You can easily identify the MAC address of your own network hardware:</p>
+  <steps>
+    <item><p>Right-click on the <gui>network icon</gui> in the <gui>top bar</gui>.</p></item>
+    <item><p>Select <gui>Connection information</gui>.</p></item>
+    <item><p>Your MAC address will be displayed as the <gui>Hardware Address</gui>.</p></item>
+  </steps>  
+
+  <p>Click <gui>Close</gui> to close the <gui>Connection Information</gui> window.</p>
+    
+  <note><p>In practice, a MAC address may sometimes legitimately need to be modified, or "spoofed." For example, some internet service providers may require that a specific MAC address be used to access their service. If the network card stops working, and you need to change your network card, the service won't work anymore. In such cases, you would need to spoof the MAC address.</p></note>
+
+</page>

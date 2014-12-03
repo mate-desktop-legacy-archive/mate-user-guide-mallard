@@ -1,0 +1,28 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="clock-timezone">
+
+  <info>
+    <link type="guide" xref="clock"/>
+    <desc>Add other timezones so you can see what time it is in other cities.</desc>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Change your timezone</title>
+<p>If you want to know what time it is in different cities around the world, you can add additional timezones to the clock.</p>
+<p>Change timezones by choosing a different geographical location:</p>
+<steps>
+  <item><p>Click on the clock located in the center of top bar.</p></item>
+  <item><p>Select <gui>Date and Time Settings</gui>.</p></item>
+  <item><p>Click on your current continent, then select your current city from the drop-down menu.</p></item>
+</steps>
+
+<p>The time shown on the clock will not update automatically when you select a different location; it needs to be <link xref="clock-set">set manually</link>.</p>
+
+</page>

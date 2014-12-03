@@ -1,0 +1,32 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="keyboard-cursor-blink">
+  <info>
+    <link type="guide" xref="a11y#vision" group="lowvision"/>
+    <link type="guide" xref="keyboard"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <desc>Make the insertion point blink and control how quickly it blinks.</desc>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    <credit type="author">
+       <name>Natalia Ruz Leiva</name>
+       <email>nruz@alumnos.inf.utfsm.cl</email>
+    </credit>
+  </info>
+
+  <title>Make the keyboard cursor blink</title>
+
+  <p>You could lose the keyboard cursor in a text field, but if the keyboard cursor blinks, it is easier to find it.
+  To make the cursor blink and to adjust the speed of it:</p>
+
+  <steps>
+    <item><p>Click your name in the top bar and select <gui>System Settings</gui>.</p></item>
+    <item><p>Click <gui>Keyboard</gui>.</p></item>
+    <item><p>Select <gui>Cursor blinks in text fields</gui>.</p></item>
+    <item><p>Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks.</p></item>
+  </steps>
+
+</page>

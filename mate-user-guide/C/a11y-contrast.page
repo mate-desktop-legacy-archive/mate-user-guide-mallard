@@ -1,0 +1,31 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task a11y"
+      id="a11y-contrast">
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <link type="guide" xref="a11y#vision" group="lowvision"/>
+    <link type="seealso" xref="power-brighter" />
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <desc>Make windows and buttons on the screen more (or less) vivid, so they're easier to see.</desc>
+  </info>
+
+  <title>Adjust the contrast</title>
+
+<p>You can adjust the contrast of windows and buttons so that they're easier to see. This is not the same as <link xref="power-brighter">changing the brightness of the whole screen</link>; only parts of the <em>user interface</em> will change.</p>
+
+  <steps>
+    <item><p>Click on the accessibility icon in the top panel.</p></item>
+    <item><p>Click on <gui>Universal Access Settings</gui>. The <gui>Universal Access</gui> window will open.</p></item>
+    <item><p>Select the <gui>Seeing</gui> tab. Under <gui>Display</gui> select the <gui>Contrast</gui> that best suits your needs. <gui>Low</gui> will make things less vivid, for example.</p></item>
+</steps>
+ <note style = "tip">
+ <p>
+Once you have adjusted the setting in the <gui>Seeing</gui> tab to your preferred contrast, you can quickly turn the contrast <gui>ON</gui> and <gui>OFF</gui> by clicking on the accessibility icon in the top panel and then clicking on <gui>High Contrast</gui>.
+</p>
+</note>
+</page>

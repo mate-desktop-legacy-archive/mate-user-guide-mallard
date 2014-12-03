@@ -1,0 +1,30 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task a11y"
+      id="a11y-locate-pointer">
+  <info>
+    <link type="guide" xref="mouse"/>
+    <link type="guide" xref="a11y#vision" group="lowvision"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <desc>Pressing <key>Ctrl</key> can find your mouse pointer.</desc>
+  </info>
+
+  <title>Quickly locate the pointer</title>
+
+
+  <p>If you have trouble seeing where the mouse pointer is on your screen, you can make it so that simply pressing the <key>Ctrl</key> key will locate your pointer.  Once this is set up, pressing <key>Ctrl</key> will cause an animation to appear briefly at the location of your pointer.</p>
+
+  <steps>
+    <item><p>Click your name on the top panel and select <gui>System Settings</gui>.</p></item>
+    <item><p>Open <gui>Mouse and Touchpad</gui> and select the <gui>Mouse</gui> tab.</p></item>
+    <item><p>Check <gui>Show position of pointer when the Control key is pressed</gui>.</p></item>
+
+  </steps>
+<p>Your <key>Ctrl</key> keys will now locate the pointer when pressed.</p>
+</page>

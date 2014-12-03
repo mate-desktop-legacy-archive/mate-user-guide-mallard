@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task a11y"
+      id="a11y-font-size">
+  <info>
+    <link type="guide" xref="a11y#vision" group="lowvision"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+
+    <desc>Use larger fonts to make text easier to read.</desc>
+  </info>
+
+<title>Change text size on the screen</title>
+
+<p>You can quickly adjust the text size by clicking on the universal access icon in the top panel, and selecting <gui>ON</gui> or <gui>OFF</gui> for <gui>Large Text</gui>.</p>
+   
+  <p>Alternatively, you can increase the size of the text by following these steps:</p>
+
+  <steps>
+    <item><p>Click on the universal access icon in the top panel.</p></item>
+    <item><p>Click on <gui>Universal Access</gui>.</p></item>
+    <item><p>Select the <gui>Seeing</gui> tab.</p> </item>
+    <item><p>Under <gui>Display</gui> select the <gui>Text size</gui> that is big enough for you. It will adjust immediately.</p>
+</item>
+  </steps>
+
+ <note>
+  <p>
+    You can increase the text size at any time by clicking <keyseq><key>Shift</key><key>Ctrl</key><key>=</key></keyseq>.
+  </p>
+ </note>
+
+</page>

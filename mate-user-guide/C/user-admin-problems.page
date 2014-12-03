@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="problem"
+      id="user-admin-problems">
+
+  <info>
+    <link type="guide" xref="user-accounts#privileges"/>
+    
+    <desc>You can only do some things, like installing applications, if you have admin privileges.</desc>
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Problems caused by administrative restrictions</title>
+
+<p>There are a few problems that you might experience because you don't have <link xref="user-admin-explain">administrative privileges</link>. Some things require you to have admin privileges in order to work, such as:</p>
+
+<list>
+ <item>
+  <p>Connecting to some networks/wireless networks</p>
+ </item>
+ <item>
+  <p>Viewing the contents of a removable disk plugged-in to the computer, or the contents of a different disk partition (e.g. if you have a Windows partition)</p>
+ </item>
+ <item>
+  <p>Installing new applications</p>
+ </item>
+</list>
+
+<p>You can <link xref="user-admin-change">change who has admin privileges</link>.</p>
+
+</page>

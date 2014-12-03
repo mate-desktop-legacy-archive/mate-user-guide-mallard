@@ -1,0 +1,63 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="disk-capacity">
+  <info>
+    <link type="guide" xref="hardware#disk"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
+    <credit type="author">
+      <name>GNOME Documentation Team</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    <credit type="author">
+      <name>Natalia Ruz Leiva</name>
+      <email>nruz@alumnos.inf.utfsm.cl</email>
+    </credit>
+
+    <desc>With <gui>Disk Usage Analyzer</gui> or <gui>System Monitor</gui>.</desc>
+  </info>
+
+<title>Check how much disk space is left</title>
+<section id="disk-usage-analyzer"><title>With Disk Usage Analyzer</title>
+<p>To check the free disk space and disk capacity using <gui>Disk Usage Analyzer</gui>:</p>
+
+<comment>
+  <cite date="2011-04-04">shaunm</cite>
+  <p>Rewrite steps to use common simple form in 3.0.1</p>
+</comment>
+
+<steps>
+    <item><p>Go to <gui>Activities</gui> in the top left corner of the screen.</p></item>
+    <item><p>Start typing 'Disk Usage Analyzer'.</p></item> 
+    <item><p>Press <key>Enter</key> or click on the <gui>Disk Usage Analyzer</gui> icon.</p></item>
+</steps>
+<note style="tip"><p><gui>Disk Usage Analyzer</gui> can also be run by pressing <keyseq><key>Alt</key><key>F2</key></keyseq>, typing 'baobab' (without the single-quotes) and pressing <key>Enter</key>.</p></note>
+
+<p>The <gui>Disk Usage Analyzer</gui> window will display the <gui>Total file system capacity</gui> and <gui>Total file system usage</gui>, in percentage and gigabytes. Click on <gui>View as Rings Chart</gui> to change the display to <gui>View as Treemap Chart</gui>.</p>
+</section>
+<section id="system-monitor"><title>With System Monitor</title>
+
+<p>To check the free disk space and disk capacity with <gui>System Monitor</gui>:</p>
+<steps>
+    <item><p>Go to <gui>Activities</gui> in the top left corner of the screen.</p></item>
+    <item><p>Start typing 'System Monitor'.</p></item> 
+    <item><p>Press <key>Enter</key> or click on the <gui>System Monitor</gui> icon.</p></item>
+    <item><p>Click on the <gui>File Systems</gui> tab.</p></item>
+</steps>
+<p>For each device, the <gui>System Monitor</gui> window displays the Total, Free, Available and Used space.</p>
+
+</section>
+<section id="disk-full"><title>What if the disk is too full?</title>
+<p>If the disk is too full you should:</p>
+   <list>
+       <item><p>Delete files that aren't important or that you won't use anymore.</p></item>
+       <item><p>Make <link xref="backup-why">backups</link> of the important files that you won't need for a while and delete them from the hard drive.</p></item>
+   </list>
+</section>
+
+<comment>
+ <p>Check disk capacity. Explain what you can do if the disk is too full. May wish to use palimpsest (advanced), gnome-system-monitor (easy).</p>
+</comment>
+
+</page>

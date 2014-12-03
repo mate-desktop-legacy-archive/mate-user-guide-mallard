@@ -1,0 +1,42 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="problem"
+      id="net-wrongnetwork">
+  <info>
+    <link type="guide" xref="net#problems"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    
+    <credit type="author">
+      <name>Phil Bull</name>
+      <email>philbull@gmail.com</email>
+    </credit>
+
+    <desc>Delete the network connection that keeps being connected to accidentally.</desc>
+  </info>
+
+<title>My computer connects to the wrong network</title>
+
+<p>When you turn your computer on or move to a different location, your computer will automatically try to connect to wireless networks that you have connected to in the past. If it tries to connect to the wrong network each time (that is, not the one that you want it to connect to), do the following:</p>
+
+<steps>
+ <item>
+  <p>Click the network icon on the top bar and select <gui>Edit Connections</gui>.</p>
+ </item>
+ 
+ <item>
+  <p>Go to the <gui>Wireless</gui> tab and find the network that you <em>don't</em> want it to keep connecting to.</p>
+ </item>
+ 
+ <item>
+  <p>Click that network once to select it and click <gui>Delete</gui>. Your computer won't try to connect to that network any more.</p>
+ </item>
+ 
+</steps>
+
+<p>If you want to connect to the network you just deleted at some point in the future, simply select it from the list of wireless networks that appears when you click the network icon on the top panel - just as you would connect to any other wireless network.</p>
+
+</page>

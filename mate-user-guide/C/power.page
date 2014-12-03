@@ -1,0 +1,34 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="power">
+<info>
+    <link type="guide" xref="prefs"/>
+    <link type="guide" xref="hardware#power" />
+    
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
+    <credit type="author">
+      <name>Natalia Ruz</name>
+      <email>nruz@alumnos.inf.utfsm.cl</email>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
+    
+    <desc>
+      <link xref="power-suspendhibernate">Suspend</link>,
+      <link xref="power-batterylife">energy savings</link>,
+      <link xref="power-whydim">screen dimming</link>...
+    </desc>
+    
+</info>
+
+<title>Power settings</title>
+
+<section id="battery" style="2column">
+    <title>Battery settings</title>
+</section>
+
+<section id="problems" style="2column">
+    <title>Problems</title>
+</section>
+
+</page>
