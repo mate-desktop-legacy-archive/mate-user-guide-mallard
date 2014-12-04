@@ -1,18 +1,18 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="topic" style="task"
       id="mate-exit">
-
   <info>
-
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
     <link type="guide" xref="index" group="mate-exit" />
     <link type="guide" xref="mate-overview#desktop" />
     <link type="seealso" xref="power-turnoffbutton" />
 
-    <desc>Learn how to leave your user account, by logging out, switching users,
-and so on.</desc>
+    <desc>Learn how to leave your user account, by logging out,
+    switching users, and so on.</desc>
+
     <!-- Should this be a guide which links to other topics? -->
     
-    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
