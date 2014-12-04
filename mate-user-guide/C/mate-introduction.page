@@ -2,7 +2,7 @@
       type="topic"
       id="mate-introduction">
   <info>
-  
+ 
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-04" status="draft"/>
     
     <link type="guide" xref="index" group="mate-introduction" />
@@ -25,22 +25,24 @@
   <p>draft update - improvements welcome.</p>
 </comment>
 
-<p>MATE provides an intuitive and attractive desktop to Linux users using
-traditional metaphors. MATE features a complete multi-tasking user interface
-to help you get things done and design your work-flow. You will see an empty
-desktop and two panels when you login for the first time. </p>
+<p>MATE provides an intuitive and attractive desktop to Linux users
+using traditional metaphors. MATE features a complete multi-tasking
+user interface to help you get things done and design your work-flow.
+You will see an empty desktop and two panels when you login for the
+first time. </p>
 
 <media type="image" src="figures/mate-default-top-panel.png"
        width="500" height="40">
   <p>MATE shell top bar</p>
 </media>
 
-<p>The top panel provides access to any of a number of panel applets, your
-calendar and weather, and system properties like sound, networking, and
-power. The traditional menu system is available in the top panel with
-"Applications" and "Places" with all preferences in their usual location under the
-"System" menu. One can set availability, change your profile or any number of
-tweaks. The user may log out, switch users or turn off the computer.</p>
+<p>The top panel provides access to any of a number of panel applets,
+your calendar and weather, and system properties like sound, networking,
+and power. The traditional menu system is available in the top panel
+with "Applications" and "Places" with all preferences in their usual
+location under the "System" menu. One can set availability, change your
+profile or any number of tweaks. The user may log out, switch users or
+turn off the computer.</p>
 
 <p>The lower panel provides access to any of a number of panel applets
 as well. By default it has the WorkSpace Switcher, Show Desktop and the
@@ -170,9 +172,9 @@ your battery is critically low.</p>
 <p>The menu also allows you to edit your personal information and change
 the system settings.</p>
 
-<p>When you leave your computer, you can lock your screen to prevent other
-people from using it. You can quickly switch users without logging out
-completely to give somebody else access to the computer. Or you can
+<p>When you leave your computer, you can lock your screen to prevent
+other people from using it. You can quickly switch users without logging
+out completely to give somebody else access to the computer. Or you can
 suspend or power off the computer from the menu.</p>
 
 <list style="compact">
