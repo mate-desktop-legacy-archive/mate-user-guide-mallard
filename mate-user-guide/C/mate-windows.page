@@ -1,15 +1,14 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="guide"
       id="mate-windows">
-
   <info>
-
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
     <link type="guide" xref="index" group="mate-windows" />
     <link type="guide" xref="mate-overview#apps" />
 
     <desc>Move and organize your windows.</desc>
 
-    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
