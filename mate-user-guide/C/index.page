@@ -2,39 +2,38 @@
       xmlns:e="http://projectmallard.org/experimental/"
       xmlns:its="http://www.w3.org/2005/11/its"
       type="guide" id="index" style="task">
+  <info>
 
-<info>
     <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
-    
+
     <desc>A guide for MATE Desktop users</desc>
 
     <credit type="author">
       <name>Mate Documentation Team</name>
-      <email>mate-doc-team@mate-desktop.org</email>
     </credit>
 
     <title type='link'>MATE User Guide</title>
     <title type='text'>MATE User Guide</title>
-    <title role="trail" type="link"><media its:translate="no" type="image" 
+    <title role="trail" type="link"><media its:translate="no" type="image"
            mime="image/png" src="figures/mate-logo.png">
         <span its:translate="yes">Help</span></media></title>
 
         <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
-</info>
+  </info>
 
-<title><media its:translate="no" type="image" src="figures/mate-yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE User Guide</title>
+  <title><media its:translate="no" type="image" src="figures/mate-yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE User Guide</title>
 
-<links type="topic" style="mouseovers"
+  <links type="topic" style="mouseovers"
        groups="mate-introduction mate-exit mate-overview mate-apps-open
-	       mate-windows">
+           mate-windows">
   <e:mouseover src="figures/mate-default-desktop.png"/>
   <e:mouseover match="mate-introduction" src="figures/mate-caja-default-computer-view.png"/>
   <e:mouseover match="mate-exit" src="figures/mate-exit.png"/>
   <e:mouseover match="mate-overview" src="figures/mate-panel-places.png"/>
   <e:mouseover match="mate-apps-open" src="figures/mate-panel-applications.png"/>
   <e:mouseover match="mate-windows" src="figures/mate-default-desktop-home.png"/>
-</links>
-<links type="topic" style="toronto" groups="
+  </links>
+  <links type="topic" style="toronto" groups="
        net media files
        prefs hardware
        a11y tips more-help"/>
