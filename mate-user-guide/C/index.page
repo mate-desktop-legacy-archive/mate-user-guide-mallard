@@ -4,9 +4,10 @@
       type="guide" id="index" style="task">
 
 <info>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    
     <desc>A guide for MATE Desktop users</desc>
 
-    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
     <credit type="author">
       <name>Mate Documentation Team</name>
       <email>mate-doc-team@mate-desktop.org</email>
