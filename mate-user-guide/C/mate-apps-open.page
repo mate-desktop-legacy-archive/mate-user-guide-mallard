@@ -3,6 +3,7 @@
       style="task"
       id="mate-apps-open">
   <info>
+
     <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
     
     <link type="guide" xref="index" group="mate-apps-open" />
@@ -12,7 +13,6 @@
     
     <credit type="author">
       <name>Mate Documentation Team</name>
-      <email>mate-doc-team@mate-desktop.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
