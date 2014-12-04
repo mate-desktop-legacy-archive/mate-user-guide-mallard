@@ -1,9 +1,9 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="guide"
       id="mate-overview">
-
   <info>
-  
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
     <link type="guide" xref="index" group="mate-overview" />
     
     <title role="trail" type="link">Overview</title>
