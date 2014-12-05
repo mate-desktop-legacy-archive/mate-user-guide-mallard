@@ -2,10 +2,16 @@
       type="guide"
       id="files">
   <info>
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
-    <link type="guide" xref="index" group="files"/>
-    <link type="guide" xref="shell-overview#files"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-04" status="incomplete"/>
 
+    <link type="guide" xref="index" group="files"/>
+    <link type="guide" xref="mate-overview#files"/>
+
+    <credit type="author">
+    <!-- 2014-12-05 -->
+      <name>Mate Documentation Team</name>
+    </credit>
+    
     <credit type="author">
       <name>Shaun McCance</name>
       <email>shaunm@gnome.org</email>
@@ -23,8 +29,8 @@
 
 <title>Files, folders &amp; search</title>
 
-<media type="image" src="figures/nautilus.png" style="floatright" width="250" height="178">
-  <p><app>Nautilus</app> file manager</p>
+<media type="image" src="figures/caja.png" style="floatright" width="275" height="255">
+  <p><app>Caja</app> file manager</p>
 </media>
 
 <links type="topic" style="linklist nodesc bold">
