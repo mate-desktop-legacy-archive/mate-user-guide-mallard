@@ -24,11 +24,11 @@
   <title><media its:translate="no" type="image" src="figures/mate-yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE User Guide</title>
 
   <links type="topic" style="mouseovers"
-       groups="mate-introduction mate-overview mate-apps-open
+       groups="mate-overview mate-introduction mate-apps-open
        mate-windows mate-exit">
   <e:mouseover src="figures/mate-default-desktop.png"/>
-  <e:mouseover match="mate-introduction" src="figures/mate-caja-default-computer-view.png"/>
   <e:mouseover match="mate-overview" src="figures/mate-panel-places.png"/>
+  <e:mouseover match="mate-introduction" src="figures/mate-caja-default-computer-view.png"/>
   <e:mouseover match="mate-apps-open" src="figures/mate-panel-applications.png"/>
   <e:mouseover match="mate-windows" src="figures/mate-default-desktop-home.png"/>
   <e:mouseover match="mate-exit" src="figures/mate-exit.png"/>
