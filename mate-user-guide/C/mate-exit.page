@@ -74,9 +74,10 @@
 <title>Suspend, shut down, or restart.</title>
 
   <p>To save power, turn off your computer when you aren't using it. By
-  default, MATE simply suspends your computer. This saves your state to
-  your computer's memory and powers most of your computer's functions. A
-  very small amount of power is still used during suspend.</p>
+  default, <em style="strong">MATE</em> simply suspends your computer.
+  This saves your state to your computer's memory and powers most of
+  your computer's functions. A very small amount of power is still
+  used during suspend.</p>
 
   <p>To suspend your computer, left click the <em>System</em> menu on
   the top bar and then select <gui>Shutdown</gui>. If you want to from
