@@ -24,7 +24,7 @@
   <p> Initial Port more work is needed on this page</p>
 </comment>
 
-<p>Like other desktops, MATE uses windows to display your running applications. Using both the <gui>overview</gui> and the <gui>dash</gui>, you can launch new applications and control which window is active.</p>
+<p>Like other desktops, <em style="strong">MATE</em> uses windows to display your running applications. Using both the <gui>overview</gui> and the <gui>dash</gui>, you can launch new applications and control which window is active.</p>
 
 <p>In addition to windows, you can also group your applications together within workspaces. Visit the window and workspace help topics below to better learn how to use these features.</p>
 <!-- 
