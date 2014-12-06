@@ -80,7 +80,7 @@
   used during suspend.</p>
 
   <p>To suspend your computer, left click the <em>System</em> menu on
-  the top bar and then select <gui>Shutdown</gui>. If you want to from
+  the top panel and then select <gui>Shutdown</gui>. If you want to from
   that screen you can see that you can Suspend, Hibernate, Restart
   Cancel or Shutdown your computer. Your computer will automatically
   suspend when the lid is closed.</p>
