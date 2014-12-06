@@ -25,34 +25,36 @@
   <p>draft update - improvements welcome.</p>
 </comment>
 
-<p>MATE provides an intuitive and attractive desktop to Linux users
-using traditional metaphors. MATE features a complete multi-tasking
-user interface to help you get things done and design your work-flow.
-You will see an empty desktop and two panels when you login for the
-first time. </p>
+  <p><em style="strong">MATE</em> provides an intuitive and attractive
+    desktop to Linux users using traditional metaphors.
+    <em style="strong">MATE</em> features a complete multi-tasking
+    user interface to help you get things done and design your work
+    flow. You will see an empty desktop and two panels when you
+    login for the first time. </p>
 
 <media type="image" src="figures/mate-default-top-panel.png"
        width="500" height="40">
-  <p>MATE shell top bar</p>
+  <p><em style="strong">MATE</em> top panel</p>
 </media>
 
 <p>The top panel provides access to any of a number of panel applets,
 your calendar and weather, and system properties like sound, networking,
 and power. The traditional menu system is available in the top panel
-with "Applications" and "Places" with all preferences in their usual
-location under the "System" menu. One can set availability, change your
-profile or any number of tweaks. The user may log out, switch users or
-turn off the computer.</p>
+with <em>Applications</em> and <em>Places</em> with all preferences in
+their usual location under the <em>System</em> menu. One can set
+availability, change their profile or any number of tweaks. The user may
+log out, switch users or turn off the computer.</p>
 
 <p>The lower panel provides access to any of a number of panel applets
 as well. By default it has the WorkSpace Switcher, Show Desktop and the
 Window List applets. There are many applets to choose from. Either the
 top or lower panel can be customized by simply right clicking a vacant
-portion of either panel.</p>
+portion of either panel and selecting <em>Properties</em> in the context
+menu.</p>
 
 <media type="image" src="figures/mate-default-lower-panel.png"
        width="500" height="40">
-  <p>MATE shell top bar</p>
+  <p><em style="strong">MATE</em> shell top bar</p>
 </media>
 
 <links type="section"/>
@@ -78,10 +80,10 @@ applet which can be accesed by a right-click on either panel.</p>
 </media>
 
 <p>On the left of the lower panel you will find the <em>Window List</em>.
-The Window List applet will allow preferences settings so you can
+The <em>Window List</em> applet will allow preferences settings so you can
 conviently show your current open application either on this workspace
-or on all workspaces. Click any application just to the right of the and
-that application will open.</p>
+or on all workspaces. Click any application label just to the right of
+the <em>Window List</em> and that application will open.</p>
 
 <p>If you right-click on any of those applications in the list you can
 make one of several choices of what to do with that window. You can
@@ -94,18 +96,19 @@ workspace thumbnail on the right.</p>
       <p>WorkSpace Switcher</p>
 </media>
 
-<p>On the lower panel right side is where the Workspace Switcher applet
-lives by default. It will show four workspaces by default. When you move
-the mouse over the applet it will give you a hint as to which workspace
-it is over by a tool-tip. These names can be easily customized with a
-right-click then selecting "Properties" with your mouse over the applet
-area. The applet shows you an informal or relative view of what is on
-each workspace.</p>
+<p>On the lower panel, the right side, is where the <gui>Workspace
+Switcher</gui> applet lives. It will show four workspaces by default.
+When you move the mouse over the applet it will give you a hint as to
+which workspace it is over by a tool-tip. These names can be easily
+customized with a right-click then selecting "Properties" with your
+mouse over the applet area. The applet shows you an informal or
+relative view of what application is visible each workspace.</p>
 
-<p>Click <gui>Applications</gui> to enter the MATE main menu. This menu
-shows you all the available applications installed on your computer.
-Click any application to run it, or drag an the item to either panel or
-the desktop to have a custom place for you most used programs.</p>
+<p>Click <gui>Applications</gui> to enter the
+<em style="strong">MATE</em> main menu. This menu shows you all the
+available applications installed on your computer. Click any application
+to run it, or drag an the item to either panel or the desktop to have a
+custom place for your most used programs.</p>
 
 <list style="compact">
   <item><p><link xref="mate-apps-open">Learn more about starting applications.</link></p></item>
@@ -120,15 +123,15 @@ the desktop to have a custom place for you most used programs.</p>
   <p>Clock, calendar, and location</p>
 </media>
 
-<p>Click the clock one right of the top panel to see the current date,
-a month-by-month calendar, and a list of your locations. Modifying your
-settings is as easy as a right-click. An extensive set of locations
+<p>Click the clock on the right of the top panel to see the current
+date, a month-by-month calendar, and a list of your locations. Modifying
+your settings is as easy as a right-click. An extensive set of locations
 is available. You can adjust Weather wind speed measurement and
 temperature display as well.</p>
 
 <comment>
   <cite date="2014-12-04">MotoHosss</cite>
-  <p>Eventually this needs to link to a full fledged Clock Help.
+  <p>Eventually this needs to link to a full calendar/appointment Help.
   Until then it is commented out.</p>
 </comment>
 <!-- <list style="compact">
