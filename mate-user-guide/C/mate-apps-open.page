@@ -4,13 +4,13 @@
       id="mate-apps-open">
   <info>
 
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
-    
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
+
     <link type="guide" xref="index" group="mate-apps-open" />
-    <link type="guide" xref="mate-overview" />
-    
-    <!-- <desc>Launch apps from the panel or menu overview.</desc> -->
-    
+    <link type="guide" xref="mate-overview#apps" />
+
+    <desc>Launch applications from the panel or menu.</desc>
+
     <credit type="author">
       <name>Mate Documentation Team</name>
       <year>2014</year>
@@ -26,36 +26,59 @@
   <p> Initial Port more work is needed on this page</p>
 </comment>
 
-<p>Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities Overview</gui>. This is where you can find all of your applications. (You can open the overview by pressing the <link xref="windows-key">windows key</link> too.)</p>
+  <p>Move your mouse pointer to the <gui>Applications</gui> menu at the
+  top left of the screen to show all the available applications in the
+  menu. This menu is designed with relative categories by type. You can
+  also open the main menu by using the <cmd>ALT+F1</cmd>key
+  sequence.</p>
 
-<p>There are several ways of opening an application once you're in the activities overview:</p>
+  <p>Once open with the keyboard (or the mouse) you can navigate with
+  the arrow keys on the keyboard.</p>
+
+  <p>Another way to find the desired application is to use the panel's
+  Run Application dialog:</p>
 
 <list>
- 
+
  <item>
-  <p>Start typing the name of an application - it should search for it instantly. (If this doesn't happen, click the search bar at the top right of the screen and then start typing.) Then, click the application's icon to start it.</p>
- </item>
- 
+  <p>On your keyboard press <keyseq><key>Alt</key><key>F2</key></keyseq>.
+  A simple dialog box will open that will allow you to visually choose
+  an application instantly. You can do several things with this.
+  If you know the name of the application simply start typing.
+  In the known applications portion of the window you can visually see
+  all the gui applications that are <em style="strong">MATE</em> Desktop
+  aware.</p>
+  <p>If you know the name of a command to run in a terminal you can
+  type that command in and click the checkbox <em>Run in terminal</em></p>
+  </item>
+
  <item>
-  <p>Click the <gui>Applications</gui> heading at the top of the screen to see a list of applications you can run. You can filter them by type using the categories on the right, or search using the search bar at the top right. Click the application's icon to start it.</p>
+  <p>Click the <gui>Applications</gui> menu at the top left of the
+  screen to see a list of applications you can run. The applications are
+  filtered by common category names. Click the application's icon to
+  start it.</p>
  </item>
- 
+
  <item>
-  <p>Some applications have icons in the <em>dash</em> (the vertical strip of icons on the left-hand side of the activities overview). Click one of those to start that application.</p>
-  <p>If you have applications that you use very frequently, you can <link xref="shell-apps-favorites">add them to the dash</link> yourself.</p>
+  <p>If you have applications that you use very frequently,
+  you can <link xref="mate-apps-favorites">add them to the panel</link>
+  yourself.</p>
  </item>
- 
+
  <item>
-  <p>You can launch an application in a separate workspace by dragging an application's icon from the dash (or from the list of applications), and dropping it on one of the workspaces on the right-hand side of the screen. The application will open in the workspace that you choose.</p>
+  <p>With <em style="strong">MATE</em> you have the ability to create
+  a <em>Launch icon</em> for any applaication. This can be done by
+  <cmd>Right-click</cmd> on a vacant area of the desktop and choosing
+  the <cmd>Create Launcher</cmd> selection that shows in the menu that
+  appears.</p>
  </item>
- 
+
 </list>
 
-<note style="tip">
- <title>Quickly running a command</title>
- <p>Another, more advanced way of running an application is to use its <em>command name</em>, which you can do by pressing <keyseq><key>Alt</key><key>F2</key></keyseq>, entering a command, and then pressing <key>Enter</key>.</p>
- <p>For example, to launch <app>Rhythmbox</app>, press <keyseq><key>Alt</key><key>F2</key></keyseq> and type 'rhythmbox' (without the single-quotes). The name of the app is the command to launch the program.
- </p>
-</note>
+<comment>
+  <cite date="2014-12-01">MotoHosss</cite>
+  <p> In the list above there need to be a link to the help button page
+  for the "Create Launcher" application.</p>
+</comment>
 
 </page>
