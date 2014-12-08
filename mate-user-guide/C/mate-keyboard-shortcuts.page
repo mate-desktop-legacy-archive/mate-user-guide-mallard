@@ -1,0 +1,109 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="tip"
+      id="mate-keyboard-shortcuts">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
+
+    <link type="guide" xref="tips"/>
+    <link type="guide" xref="mate-overview#desktop"/>
+
+    <desc>Getting around the desktop using the keyboard.</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <year>2014</year>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Useful keyboard shortcuts</title>
+
+<table rules="rows" frame="top bottom">
+<title>Desktop navigation</title>
+  <tr>
+    <td><p><keyseq><key>Ctl</key><key>Alt</key><key>Del</key></keyseq></p></td>
+    <td><p>Log out current session.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctl</key><key>Alt</key><key>L</key></keyseq></p></td>
+    <td><p>Lock current session.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>F1</key></keyseq></p></td>
+    <td><p>Show Mate-Panel Main Menu.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>F2</key></keyseq></p></td>
+    <td><p>Show Mate-Panel Run Application.</p></td>
+  </tr>
+ <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>D</key></keyseq></p></td>
+    <td><p>Hide all windows and show the desktop.</p></td>
+  </tr>
+ <tr>
+    <td><p><key>Print</key></p></td>
+    <td><p>Take a screenshot.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>Print</key></keyseq></p></td>
+    <td><p>Take a screenshot of a window.</p></td>
+  </tr>
+</table>
+
+<table rules="rows" frame="top bottom">
+<title>Windows and Workspace Manipulation</title>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>Tab</key></keyseq></p></td>
+    <td><p>Show Mate-Panel Main Menu.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
+    <td><p>Move between panels and the desktop, using a popup window.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>Esc</key></keyseq></p></td>
+    <td><p>Move between windows immediately.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Alt</key><key>F6</key></keyseq></p></td>
+    <td><p>Move between windows of an application immediately.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Esc</key></keyseq></p></td>
+    <td><p>Move between panels and the desktop immediately.</p></td>
+  </tr>
+ <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>D</key></keyseq></p></td>
+    <td><p>Hide all windows and show the desktop.</p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Left</key></keyseq></p></td>
+    <td><p><link xref="mate-workspaces-switch">Switch to workspace on left of current workspace.</link></p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Right</key></keyseq></p></td>
+    <td><p><link xref="mate-workspaces-switch">Switch to workspace on right of current workspace.</link></p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Up</key></keyseq></p></td>
+    <td><p><link xref="mate-workspaces-movewindow">Switch to workspace above current workspace.</link></p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Down</key></keyseq></p></td>
+    <td><p><link xref="mate-workspaces-movewindow">Switch to workspace below current workspace.</link></p></td>
+  </tr>
+  <tr>
+    <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>L</key></keyseq></p></td>
+    <td><p><link xref="mate-exit#lock-screen">Lock the screen.</link></p></td>
+  </tr>
+</table>
+
+<comment>
+  <cite date="2014-12-08">MotoHoss</cite>
+  <p>There should be more here/or a link here to the "Keyboard Preferences Help
+  page". Perhaps a seealso link to "keyboard-preferences.page"</p>
+</comment>
+
+</page>
