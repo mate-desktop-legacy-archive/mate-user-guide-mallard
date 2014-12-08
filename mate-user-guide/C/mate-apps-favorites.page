@@ -1,0 +1,44 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="mate-apps-favorites">
+
+  <info>
+  <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-05" status="draft"/>
+  
+    <link type="seealso" xref="mate-apps-open"/>
+    <link type="guide" xref="mate-overview#apps"/>
+    
+    <desc>Add (or remove) frequently-used program icons on the panel or desktop.</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <year>2014</year>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Place your favorite applications.</title>
+
+  <p>To add an application to the
+  <link xref="mate-terminology">panel</link> for easy access:</p>
+ <steps>
+  <item><p>Open the <link xref="mate-terminology">Applications</link>
+  menu, or the link xref="mate-terminology">System</link> menu.</p>
+  </item>
+  <item>
+   <p>Find the application you want to add to the panel (or the desktop)
+   by clicking on <gui>Applications</gui>. Left-click on the application
+   icon and grab it.</p>
+   <item>Then drag it to the panel (or the desktop)and release the mouse!
+   </p>
+   </item>
+  </steps>
+
+  <p>To remove an application icon from the panel or the desktop, right
+  click on the application icon and select <gui>Remove from Favorites</gui>.
+  You can also drag the application icon to the Trash icon on the dash
+  to remove it.</p>
+
+</page>
