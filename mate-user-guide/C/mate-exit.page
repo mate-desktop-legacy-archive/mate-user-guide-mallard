@@ -2,9 +2,9 @@
       type="topic" style="task"
       id="mate-exit">
   <info>
-  
+
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-04" status="draft"/>
-    
+
     <link type="guide" xref="index" group="mate-exit" />
     <link type="guide" xref="mate-overview#desktop" />
     <link type="seealso" xref="power-turnoffbutton" />
@@ -20,7 +20,7 @@
   vary."</p>
 </comment>
     <!-- Should this be a guide which links to other topics? -->
-    
+
     <credit type="author">
       <name>Mate Documentation Team</name>
       <year>2014</year>
@@ -45,7 +45,7 @@
  leave yourself logged in and just switch users. If you just switch
  users, all of your applications will continue running, and everything
  will be where you left it when you log back in.</p>
- 
+
  <p>To log out, shut down or reboot click the <em>System</em> Menu on
  the top panel and select the appropriate option.</p>
 </section>
