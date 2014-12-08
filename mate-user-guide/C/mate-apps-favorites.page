@@ -2,9 +2,9 @@
       type="topic"
       style="task"
       id="mate-apps-favorites">
-
   <info>
-  <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-05" status="draft"/>
+      
+  <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
   
     <link type="seealso" xref="mate-apps-open"/>
     <link type="guide" xref="mate-overview#apps"/>
@@ -21,14 +21,26 @@
 
 <title>Place your favorite applications.</title>
 
-  <p>To add an application to the <link xref="mate-terminology">
-  Panel</link> for easy access:</p>
+  <p>To add an application to the
+  <link xref="mate-terminology">Panel</link> for easy access:</p>
+
   <steps>
-  <item><p>Open the <link xref="mate-terminology">Applications</link>menu, or the link xref="mate-terminology">System</link> menu.</p></item>
-  <item><p>Find the application you want to add to the panel (or the desktop)by clicking on <gui>Applications</gui>. Left-click on the applicationicon and grab it.</p>
-  <item><p>Then drag it to the panel (or the desktop)and release the mouse!</p></item>
+  <item>
+  <p>Open the <link xref="mate-terminology">Applications</link> menu, or
+  the <link xref="mate-terminology">System</link> menu.</p> </item>
+  <item>
+  <p>Find the application you want to add to the panel (or the desktop)
+  by clicking on any one of the categories and burrow down to find the
+  <gui>Application</gui> you want to add. Left-click on the that
+  application's icon and grab it.</p></item>
+  <item>
+  <p>Then drag it to the panel (or desktop) and release the mouse!</p>
+  </item>
   </steps>
 
-  <p>To remove an application icon from the panel or the desktop, right click on the application icon and select <gui>Remove from Favorites</gui>.You can also drag the application icon to the Trash icon on the Desktop to remove it.</p>
+  <p>To remove an application icon from the panel or the desktop, right
+  click on the application icon and select
+  <gui>Remove from ...</gui>. You can also drag the application
+  icon to the Trash icon on the Desktop to remove it.</p>
 
 </page>
