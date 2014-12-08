@@ -21,24 +21,14 @@
 
 <title>Place your favorite applications.</title>
 
-  <p>To add an application to the
-  <link xref="mate-terminology">panel</link> for easy access:</p>
- <steps>
-  <item><p>Open the <link xref="mate-terminology">Applications</link>
-  menu, or the link xref="mate-terminology">System</link> menu.</p>
-  </item>
-  <item>
-   <p>Find the application you want to add to the panel (or the desktop)
-   by clicking on <gui>Applications</gui>. Left-click on the application
-   icon and grab it.</p>
-   <item>Then drag it to the panel (or the desktop)and release the mouse!
-   </p>
-   </item>
+  <p>To add an application to the <link xref="mate-terminology">
+  Panel</link> for easy access:</p>
+  <steps>
+  <item><p>Open the <link xref="mate-terminology">Applications</link>menu, or the link xref="mate-terminology">System</link> menu.</p></item>
+  <item><p>Find the application you want to add to the panel (or the desktop)by clicking on <gui>Applications</gui>. Left-click on the applicationicon and grab it.</p>
+  <item><p>Then drag it to the panel (or the desktop)and release the mouse!</p></item>
   </steps>
 
-  <p>To remove an application icon from the panel or the desktop, right
-  click on the application icon and select <gui>Remove from Favorites</gui>.
-  You can also drag the application icon to the Trash icon on the dash
-  to remove it.</p>
+  <p>To remove an application icon from the panel or the desktop, right click on the application icon and select <gui>Remove from Favorites</gui>.You can also drag the application icon to the Trash icon on the Desktop to remove it.</p>
 
 </page>
