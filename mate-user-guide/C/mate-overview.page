@@ -3,14 +3,14 @@
       id="mate-overview">
   <info>
 
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="draft"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-03" status="draft"/>
 
     <link type="guide" xref="index" group="mate-overview" />
 
     <title role="trail" type="link">Overview</title>
 
     <desc>An overview of the different parts of the desktop.</desc>
-    <revision pkgversion="0.0.1" date="2014-11-30" status="incomplete"/>
+
     <credit type="author">
       <name>Mate Documentation Team</name>
       <year>2014</year>
