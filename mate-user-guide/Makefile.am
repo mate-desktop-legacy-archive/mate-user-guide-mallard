@@ -20,15 +20,16 @@ HELP_MEDIA =                                     \
     figures/mate-add-to-panel-rtclick.png
 
 
-HELP_FILES =                \
-    legal.xml               \
-    index.page              \
-    mate-apps-favorites     \
-    mate-apps-open.page     \
-    mate-exit.page          \
-    mate-introduction.page  \
-    mate-overview.page      \
-    mate-windows.page       \
+HELP_FILES =                      \
+    legal.xml                     \
+    index.page                    \
+    mate-apps-favorites           \
+    mate-apps-open.page           \
+    mate-exit.page                \
+    mate-introduction.page        \
+    mate-keyboard-shortcuts.page  \
+    mate-overview.page            \
+    mate-windows.page             \
     tips.page
 
 HELP_LINGUAS =
