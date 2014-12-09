@@ -3,7 +3,7 @@
       id="net-nonm">
   <info>
     <link type="guide" xref="net#problems"/>
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="outdated"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
