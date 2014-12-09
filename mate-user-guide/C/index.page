@@ -4,7 +4,7 @@
       type="guide" id="index" style="task">
   <info>
 
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-03" status="draft"/>
 
     <desc>A guide for MATE Desktop users</desc>
 
