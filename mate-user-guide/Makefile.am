@@ -28,6 +28,7 @@ HELP_FILES =                      \
     mate-exit.page                \
     mate-introduction.page        \
     mate-keyboard-shortcuts.page  \
+    mate-notifications.page       \
     mate-overview.page            \
     mate-windows.page             \
     tips.page
