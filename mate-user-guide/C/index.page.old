@@ -4,18 +4,18 @@
 
 <info>
     <desc>Desktop Help</desc>
-    
+
     <title type='link'>Desktop Help</title>
     <title type='text'>Desktop Help</title>
     <title role="trail" type="link"><media type="image" mime="image/png" src="figures/gnome.png">Help</media></title>
-    
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="outdated"/>
 </info>
 
 <title><media type="image" src="figures/yelp-icon-big.png">Yelp logo</media> Desktop Help</title>
 <links type="topic" style="mouseovers"
        groups="shell-introduction shell-apps-open shell-windows shell-exit
-	       shell-overview">
+           shell-overview">
   <e:mouseover src="figures/shell.png"/>
   <e:mouseover match="shell-introduction" src="figures/shell-introduction.png"/>
   <!--<e:mouseover match="files" src="figures/shell-files.png"/>-->
