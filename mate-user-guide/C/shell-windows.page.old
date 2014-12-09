@@ -9,7 +9,7 @@
 
     <desc>Move and organize your windows.</desc>
 
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="outdated"/>
     <credit type="author">
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
@@ -23,7 +23,7 @@
 <p>Like other desktops, Gnome uses windows to display your running applications. Using both the <gui>overview</gui> and the <gui>dash</gui>, you can launch new applications and control which window is active.</p>
 
 <p>In addition to windows, you can also group your applications together within workspaces. Visit the window and workspace help topics below to better learn how to use these features.</p>
-<!-- 
+<!--
 
 Want to keep this intro simple . . . what to do here?
 

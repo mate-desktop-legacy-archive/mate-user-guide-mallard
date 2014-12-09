@@ -3,11 +3,11 @@
       id="shell-notifications">
 
   <info>
-  
+
     <link type="guide" xref="shell-overview#desktop" />
-    
+
     <desc>Messages pop-up at the bottom of the screen telling you when certain events happen.</desc>
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="outdated"/>
     <credit type="author">
       <name>Marina Zhurakhinskaya</name>
       <email>marinaz@redhat.com</email>
