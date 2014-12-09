@@ -18,15 +18,17 @@ HELP_MEDIA =                                     \
     figures/mate-control-center.png              \
     figures/mate-clock-prefs-general.png         \
     figures/mate-add-to-panel-rtclick.png
-    
+
 
 HELP_FILES =                \
     legal.xml               \
     index.page              \
+    mate-apps-favorites     \
     mate-apps-open.page     \
     mate-exit.page          \
     mate-introduction.page  \
     mate-overview.page      \
-    mate-windows.page
+    mate-windows.page       \
+    tips.page
 
 HELP_LINGUAS =
