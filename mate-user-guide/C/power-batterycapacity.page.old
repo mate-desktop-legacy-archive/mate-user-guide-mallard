@@ -6,14 +6,14 @@
   <info>
     <link type="guide" xref="power#battery"/>
     <link type="seealso" xref="power-batteryoptimal"/>
-    
+
     <desc>Batteries get less efficient at storing charge as they get older, so you might want to check how efficient your battery is.</desc>
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="outdated"/>
     <credit type="author">
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
-    
+
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
