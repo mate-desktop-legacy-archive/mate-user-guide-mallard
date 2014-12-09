@@ -2,18 +2,18 @@
       type="topic"
       id="mate-introduction">
   <info>
- 
+
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-04" status="draft"/>
-    
+
     <link type="guide" xref="index" group="mate-introduction" />
     <link type="guide" xref="mate-overview" group="#first"/>
-    
+
     <desc>A visual introduction to your desktop, the top panel, and the
     bottom panel.</desc>
-    
+
     <credit type="author">
       <name>Mate Documentation Team</name>
-      <year>2014</year>
+      <years>2014</years>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
