@@ -1,0 +1,56 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="mate-notifications">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
+
+    <link type="guide" xref="mate-overview#desktop" />
+
+    <desc>Messages pop-up in the top panel telling you when certain events happen.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <credit type="author">
+      <name>Marina Zhurakhinskaya</name>
+      <years>2011</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>Notifications and the Messaging Tray</title>
+
+  <section id="what">
+  <title>What's a notification?</title>
+
+  <p>If an application or a system component wants to get your attention, a
+  notification will be shown at the right of the top panel.</p>
+
+  <p>For example, if you get a new chat message, new updates are available for
+  your computer, or your computer’s battery is low, you will get a notification
+  informing you about that.</p>
+
+  <p>The notification will first appear as a single line, so as to be least
+  distracting. You can move your mouse over it if you want to see its full
+  content.</p>
+</section>
+
+<section id="messagingtray">
+<title>The Messaging Tray</title>
+  <p>The Messaging Tray gives you a way to get back to your notifications when
+  it is convenient for you. It appears when you move your mouse to the bottom
+  right corner of the screen and contains all the notifications that you have
+  not acted upon or that permanently reside in it.</p>
+
+  <p>You can view the notifications by clicking on the Messaging Tray items.
+  The items in the Messaging Tray are usually applications that sent you
+  notifications.</p>
+
+  <p>The Messaging Tray is always visible in the Top panel.</p>
+</section>
+
+</page>
