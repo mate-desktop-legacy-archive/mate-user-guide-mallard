@@ -1,0 +1,63 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="mate-workspaces-movewindow">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-09" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-workspaces"/>
+    <link type="seealso" xref="mate-workspaces"/>
+
+    <desc>Drag the window to a different workspace with the mouse.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+<title>Move windows to a different workspace</title>
+
+<p>You can move a window between workspaces:</p>
+
+  <steps>
+
+  <item>
+  <p>Check the <gui>Lower Panel</gui> on the right side and put the mouse over
+  the window you want to move.</p>
+  </item>
+
+  <item>
+  <p>Left click and drag the window to the workspace you want to move it to.</p>
+  </item>
+
+  <item>
+  <p>Release the mouse button(drop) and the window is moved.</p>
+  </item>
+
+  </steps>
+
+  <p>A different method way of moving the active window between workspaces is by using the keyboard:</p>
+
+   <list>
+    <item>
+    <p>Press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>&#8592;</key></keyseq> to move the window to the workspace which is to the left of the current workspace.</p>
+    </item>
+   <item>
+    <p>Press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key> &#8594;</key></keyseq> to move the window to the workspace which is to the right below the current workspace.</p>
+   </item>
+    <item>
+    <p>Press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>&#8593;</key></keyseq> to move the window to a workspace which is above the current workspace.</p>
+    </item>
+   <item>
+    <p>Press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key> &#8595;</key></keyseq> to move the window to a workspace which is below the current workspace.</p>
+   </item>
+  </list>
+
+
+
+</page>
