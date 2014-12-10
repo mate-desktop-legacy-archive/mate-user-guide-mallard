@@ -1,0 +1,42 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="tip"
+      id="about-this-guide-history-authors">
+  <info>>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-10" status="draft"/>
+
+    <link type="guide" xref="about-this-guide-history"/>
+
+    <desc>A history list of authors.</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <email>doc-team@ml.mate-desktop.org</email>
+    </credit>
+
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+<title>Author history</title>
+
+<p>Shaun McCance</p>
+<p>Phil Bull</p>
+<p>GNOME Documentation Project</p>
+<p>GNOME Documentation Team</p>
+<p>Tiffany Antopolski</p>
+<p>Jim Campbell</p>
+<p>Paul W. Frields</p>
+<p>Cristopher Thomas</p>
+<p>Michael Hill</p>
+<p>Natalia Ruz Leiva</p>
+<p>April Gonzales</p>
+<p>Contributors to the Ubuntu documentation wiki</p>
+<p>Marina Zhurakhinskaya</p>
+
+<p>The <em style="strong">MATE</em> Documentation Team appreciates their work.
+Should you find that we made a mistake please visit us <link href="https://github.com/mate-desktop/mate-user-guide/">here.</link>and let us know.</p>
+
+</page>
