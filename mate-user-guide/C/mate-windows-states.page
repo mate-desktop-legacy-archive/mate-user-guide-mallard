@@ -1,0 +1,113 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="mate-windows-states">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-windows"/>
+
+    <desc>Restore, resize, arrange and hide.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+    <!-- essentially unchanged leaving original author,adding year -->
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+      <years>2011</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+  <title>Window operations and modes</title>
+
+<p>
+   Windows work in a very similar way to windows on other operating systems.
+</p>
+
+<section id="min-rest-close">
+<title>Minimize, restore and close</title>
+
+<terms>
+
+  <item>
+    <title>Minimize</title>
+    <p> To minimize a window, you can:</p>
+    <list>
+      <item>
+       <p>
+         Press <keyseq><key>Alt</key><key>Space</key></keyseq> to bring up the window menu.  Then press <key>n</key>.
+       </p>
+       <note>
+         <p> The window 'disappears' into the top left hand corner.  It can be <link xref="shell-windows-lost">retrieved</link> from the <gui>Activities</gui> overview or by pressing <keyseq><key>Alt</key><key>Tab</key></keyseq> to tab through the different open application windows.
+   </p>
+       </note>
+      </item>
+    </list>
+  </item>
+
+    <item>
+    <title>Close</title>
+    <p> To close the window:</p>
+     <list>
+      <item>
+       <p>
+        Click the <gui> x </gui> in the top right hand corner of the window, or
+       </p>
+      </item>
+      <item>
+       <p>
+         Press <keyseq><key>Alt</key><key>F4</key></keyseq>, or
+       </p>
+      </item>
+      <item>
+       <p>
+         Press <keyseq><key>Alt</key><key>Space</key></keyseq> to bring up the window menu.  Then press <key>c</key>.
+       </p>
+      </item>
+    </list>
+  </item>
+</terms>
+</section>
+
+<section id="resize">
+<title>Resize a window</title>
+
+<note style="important">
+ <p>
+   To resize a window, your window first needs to be <em>unmaximized</em>.
+ </p>
+</note>
+<p>
+   The simplest way to resize your window in the horizontal and/or vertical direction is to move the mouse pointer up to the top left corner of the window until it changes into a 'corner-pointer'.  When it becomes a 'corner-pointer', click+hold+drag to resize the window in any direction.
+</p>
+
+<p>
+You can also resize only in the horizontal direction by moving the mouse pointer to the left side of the window until it changes into a 'side-pointer'.   When it becomes a 'side-pointer', click+hold+drag to resize the window in the horizontal direction.
+</p>
+
+<p>
+To resize in the vertical direction, move the mouse pointer to the top or bottom of the window until it changes into a 'top-pointer' or 'bottom-pointer' respectively.   When it does, click+hold+drag to resize the window in the vertical direction.
+</p>
+</section>
+
+<section id="arrange">
+<title>Ways to arrange windows in your workspace</title>
+<p>
+  You can automatically arrange two windows side by side.  <key>Alt</key> + click and drag one window towards the left until the cursor touches the left side of the screen.  The left half of the screen becomes highlighted.  Unclick, and your window should automatically take up exactly half your screen.  Do the same thing for another window, dragging it to the right side.
+  </p>
+</section>
+
+<section id="hide">
+<title>Hide windows from view</title>
+<p>
+  To hide a window from view, you can just <link xref="shell-windows-states#min-rest-close">minimize</link> it.  It will 'disappear' into the top left hand corner of the window.  To be able to access it, enter the <gui>Activities</gui> view.
+</p>
+</section>
+
+</page>
