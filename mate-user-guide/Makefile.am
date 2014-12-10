@@ -34,6 +34,7 @@ HELP_FILES =                      \
     mate-windows.page             \
     mate-windows-lost.page        \
     mate-windows-maximize.page    \
+    mate-windows-states.page      \
     tips.page
 
 HELP_LINGUAS =
