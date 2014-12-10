@@ -4,7 +4,7 @@
       id="mate-windows-maximize">
   <info>
 
-    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-03" status="draft"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
 
     <link type="guide" xref="mate-windows#working-with-windows"/>
 
