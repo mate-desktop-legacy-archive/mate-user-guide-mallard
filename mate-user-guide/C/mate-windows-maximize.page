@@ -1,0 +1,55 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="mate-windows-maximize">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-03" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-windows"/>
+
+    <desc>Double click on the top title bar.</desc>
+    <!-- See mate-windows-states -->
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+  <title>Maximize and restore a window</title>
+
+   <p> To maximize or restore a window, you can:</p>
+  <list>
+
+  <item>
+  <p>Double-click on the title bar of the window.</p></item>
+
+  <item>
+  <p>To maximize a window, double click on the <gui>title bar</gui> of an
+  application.</p>
+  </item>
+
+  <item>
+  <p>To restore the window to its original size, simply double click on the
+  title bar again, it will restore itself to the size it was last (before
+  maximized).</p>
+  </item>
+
+  </list>
+
+  <note style="tip">
+
+  <p>Pressing <key>Alt</key> + click anywhere in a window will allow you to
+  move the window. Some people may find this easier than needing to click in
+  the <gui>title bar</gui> of an application.</p>
+
+  <p>You can also use your keyboard to maximize a window.
+  Press <keyseq><key>Alt</key><key>Space</key></keyseq> to bring up the window
+  menu, and then press <key>x</key>.</p>
+    </note>
+
+</page>
