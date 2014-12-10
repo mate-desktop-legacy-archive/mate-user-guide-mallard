@@ -1,0 +1,45 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="tip"
+      id="about-this-guide-history">
+  <info>>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-03" status="draft"/>
+
+    <link type="guide" xref="more-help"/>
+
+    <desc>History of this guide</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <email>doc-team@ml.mate-desktop.org</email>
+    </credit>
+
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+<title>History about this guide</title>
+
+  <p>This guide was originally developed by the gnome project. This guide's
+  original source can be found here:
+  https://git.gnome.org/browse/gnome-user-docs/snapshot/gnome-user-docs-3.0.0.zip
+  The Mate development team began work on this in the fall 2014. We gratefully
+  acknowledge their hard-work and dedication to a fine manual. We decided to
+  compose a <link xref="about-this-guide-history-authors">list</link> of all
+  the names of those in the original source, including team names. In the
+  original source for this manual there was no warranty or disclaimer. We the
+  MATE Documentation Team will hereby testify that the original source authors
+  <em style="strong"> do not endorse anything</em> in our derivative work.</p>
+
+  <p>On pages where changes were significant(more than 50%) involving context or
+  layout we removed the original authors names and email addresses. On the
+  pages where we left a credit we removed the email address and added a year,
+  2011. To the best of our knowledge that was the last commit to the original
+  source. We did not include any translations from that original source.</p>
+
+
+<p>-- The MATE Documentation Team</p>
+
+</page>
