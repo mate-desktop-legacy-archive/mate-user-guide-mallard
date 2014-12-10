@@ -1,0 +1,68 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="tip"
+      id="mate-template-untitled">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="incomplete"/>
+
+    <link type="guide" xref="more-help"/>
+
+    <desc>A generic template for the mate-user-guide.</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+<title>About this generic template</title>
+
+<p>A revision line should follow the info tag with a blank line in between like so:</p>
+
+<code><![CDATA[
+<info>
+
+<revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="stub"/>
+
+]]></code>
+
+<p>Credit type should include your name(minimum),email(optional) ,years(minimum) tag if you so desire:</p>
+
+<code><![CDATA[
+<credit type="author">
+      <name>MATE Documentation Team</name>
+      <email>your.email@tld</email>
+      <years>@year@</years>
+    </credit>
+]]></code>
+
+<p>Otherwise at a minimum it should contain :</p>
+<code><![CDATA[
+<credit type="author">
+      <name>MATE Documentation Team</name>
+      <years>@year@</years>
+    </credit>
+]]></code>
+
+
+
+  <p>This page is written to assist you in building a <em style="strong">.page</em>
+  for the mate-user-guide or any <em style="strong">MATE</em> help page.
+  We invite you to assist us in making it better. We will continue to add more
+  and new things to this page.</p>
+
+  <p>Intentionally on this page we will not directly link but to one page in
+  our guide. We will put in comments so you can hopefully get a general idea of
+  how our guide should look and feel.</p>
+
+  <p>Thank you for taking the time to view the template.</p>
+
+  <p>We now have a generic "m-u-g for our <em style="strong">MATE</em>"</p>
+
+  <p>-- The MATE Documentation Team</p>
+
+</page>
