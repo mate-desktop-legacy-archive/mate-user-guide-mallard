@@ -2,37 +2,36 @@
       type="topic"
       style="tip"
       id="about-this-guide">
-
   <info>>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="draft"/>
+
     <link type="guide" xref="more-help"/>
+
     <desc>A few tips about using the desktop help guide.</desc>
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-03" status="incomplete"/>
 
     <credit type="author">
       <name>MATE Documentation Team</name>
-      <email>doc-team@ml.mate-desktop.org</email>
+      <years>2014</years>
     </credit>
 
-    <credit type="author">
-      <name>GNOME Documentation Project</name>
-      <email>gnome-doc-list@gnome.org</email>
-    </credit>
-    
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
   </info>
 
 <title>About this guide</title>
-<p>This guide is designed to describe the features of your desktop, answer your computing-related questions, and provide tips on using your computer more effectively.</p>
-<p>There are several features of the guide that we think make it easy to use.</p>
 
-<list>
-  <item><p>The guide is sorted into small, task-oriented topics--not chapters. This means that you don't need to skim through an entire manual to find the answer to your questions.</p></item>
-  <item><p>Related-items are linked together. "See-also" links at the bottom of some pages will direct you to related topics. This makes it easy to find similar topics that might help you perform a certain task.</p></item>
-  <item><p>It includes built-in search. The bar at the top of the help browser is a <em>search bar</em>, and relevant results will start appearing as soon as you start typing.</p></item>
-  <item><p>The guide is constantly being improved. Although we attempt to provide you with a comprehensive set of helpful information, we know we won't answer all of your questions here. We will keep adding more information to make things more helpful, though.</p></item>
-</list>
+  <p>This guide is written to assist you in using <em style="strong">MATE</em>.
+  We invite you to assist us in making it better. We will continue to add more
+  and new things. We hope to describe the features of the
+  <em style="strong">MATE Desktop Environment</em>. We do want to provide a
+  useful <em style="strong">MATE centric</em> guide and help you use your
+  computer more effectively.</p>
 
-<p>Thank you for taking the time to read the <em>Desktop Help Guide</em>. We sincerely hope that you will never have to use it.</p>
+
+<p>Thank you for taking the time to read the <em style="strong">MATE User Guide</em>.</p>
+
+<p>We now have a "m-u-g for our <em style="strong">MATE</em>"</p>
 
 <p>-- The MATE documentation team</p>
 </page>
