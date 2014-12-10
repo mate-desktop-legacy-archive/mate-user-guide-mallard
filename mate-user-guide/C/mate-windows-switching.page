@@ -1,0 +1,75 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="mate-windows-switching">
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-09" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-windows"/>
+    <link type="guide" xref="mate-overview#apps"/>
+
+    <desc>Press <keyseq><key>Alt</key><key>Tab</key></keyseq>.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+    <!-- essentially unchanged leaving original author,adding year -->
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <email>gnome-doc-list@gnome.org</email>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Switch between windows</title>
+
+<terms>
+
+ <item>
+    <title>From a workspace:</title>
+<list>
+<item><p>
+Press <keyseq><key>Alt</key><key>Tab</key></keyseq> to switch between windows.
+</p>
+
+<note style="tip">
+<p>
+ The windows are grouped by application and the previews of the applications with multiple windows are available as you click through. The previews show up after a short delay, but you can get them immediately by clicking the ↓ arrow key.
+</p>
+</note>
+
+
+<note>
+<p>
+The applications running on other workspaces are displayed after a vertical separator. Including all applications in the <keyseq><key>Alt</key><key>Tab</key></keyseq> makes switching between tasks a single step process and provides you with a full picture of what applications are running.
+</p>
+</note>
+</item>
+
+<item><p>
+You can move between the preview windows with the → or ← arrow keys or with the mouse pointer.
+</p></item>
+<item><p>
+ Previews of applications with a single window are only available when the ↓ arrow is explicitly hit.
+</p></item>
+<item><p>
+
+     It is possible to switch to any window by moving to it with the mouse and clicking.
+</p></item>
+</list>
+
+</item>
+
+
+
+<item>
+  <title>From the <gui>Lower Panel</gui>:</title>
+<p>
+  Click on a <link xref="mate-windows">window</link> to switch to it and leave the current workspace. If you have multiple <link xref="mate-windows#working-with-workspaces">workspaces</link> open, you can click on each workspace to view the open windows on each workspace.
+  </p>
+  </item>
+</terms>
+
+</page>
