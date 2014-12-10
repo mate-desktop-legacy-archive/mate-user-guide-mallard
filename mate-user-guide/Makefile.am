@@ -20,24 +20,27 @@ HELP_MEDIA =                                     \
     figures/mate-add-to-panel-rtclick.png
 
 
-HELP_FILES =                           \
-    legal.xml                          \
-    index.page                         \
-    mate-apps-favorites                \
-    mate-apps-open.page                \
-    mate-exit.page                     \
-    mate-introduction.page             \
-    mate-keyboard-shortcuts.page       \
-    mate-notifications.page            \
-    mate-overview.page                 \
-    mate-terminology.page              \
-    mate-windows.page                  \
-    mate-windows-lost.page             \
-    mate-windows-maximize.page         \
-    mate-windows-states.page           \
-    mate-windows-switching.page        \
-    mate-workspaces.page               \
-    mate-workspaces-movewindow.page    \
+HELP_FILES =                               \
+    legal.xml                              \
+    about-this-guide.page                  \
+    about-this-guide-history.page          \
+    about-this-guide-history-authors.page  \
+    index.page                             \
+    mate-apps-favorites                    \
+    mate-apps-open.page                    \
+    mate-exit.page                         \
+    mate-introduction.page                 \
+    mate-keyboard-shortcuts.page           \
+    mate-notifications.page                \
+    mate-overview.page                     \
+    mate-terminology.page                  \
+    mate-windows.page                      \
+    mate-windows-lost.page                 \
+    mate-windows-maximize.page             \
+    mate-windows-states.page               \
+    mate-windows-switching.page            \
+    mate-workspaces.page                   \
+    mate-workspaces-movewindow.page        \
     tips.page
 
 HELP_LINGUAS =
