@@ -1,0 +1,60 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="mate-workspaces">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-09" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-workspaces" group="#first"/>
+
+    <desc>Workspaces are a way of grouping windows on your desktop.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+<title>What is a workspace, and how will it help me?</title>
+
+  <p>Workspaces refer to the grouping of windows on your desktop. You can
+  create many workspaces, which act like virtual desktops. Workspaces are meant
+  to reduce clutter and make the desktop easier to navigate.</p>
+
+  <p>You could use workspaces to organize your work. For example, you could
+  have all your communication windows, such as e-mail and your chat program
+  on one workspace and the work you are doing on a different workspace.
+  Multiple instances of <gui>mate-terminals</gui> for various remote servers
+  could, for example, be grouped by primary function. We know of users who keep
+  20 or more for various tasks.</p>
+
+  <media type="image" src="figures/mate-panel-workspaceswitcher.png"
+         width="430" height="30">
+         <p>Workspace switcher</p>
+  </media>
+
+
+  <p>In the <gui>Lower Panel</gui> on the right, move your cursor to the
+  right-most side of the screen. A tool-tip will emerge over each of the
+  current workspaces with a name of that workspace.</p>
+
+  <list>
+
+  <item>
+  <p>To add or remove a workspace, right click on an existing workspace in the
+  lower panel on the right and change the settings.</p>
+  </item>
+
+  <item>
+  <p>To label a workspace simply right click on anyone of them and choose
+  <gui>Preferences</gui> and change the settings.</p>
+  </item>
+
+  </list>
+
+<p>There is always at least one workspace.</p>
+
+</page>
