@@ -28,8 +28,8 @@
   have all your communication windows, such as e-mail and your chat program
   on one workspace and the work you are doing on a different workspace.
   Multiple instances of <gui>mate-terminals</gui> for various remote servers
-  could, for example, be grouped by primary function. We know of users who keep
-  20 or more for various tasks.</p>
+  could, for example, be grouped by primary function. By using the
+  <em>Preferences</em> dialog you may arrange up to 36 different workspaces.</p>
 
   <media type="image" src="figures/mate-panel-workspaceswitcher.png"
          width="430" height="30">
