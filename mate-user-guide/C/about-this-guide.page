@@ -4,7 +4,7 @@
       id="about-this-guide">
   <info>>
 
-    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="draft"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-10" status="draft"/>
 
     <link type="guide" xref="more-help"/>
 
@@ -28,10 +28,10 @@
   useful <em style="strong">MATE centric</em> guide and help you use your
   computer more effectively.</p>
 
+  <p>Thank you for taking the time to read the
+  <em style="strong">MATE User Guide</em>.</p>
 
-<p>Thank you for taking the time to read the <em style="strong">MATE User Guide</em>.</p>
+  <p>We now have a "m-u-g for our <em style="strong">MATE</em>"</p>
 
-<p>We now have a "m-u-g for our <em style="strong">MATE</em>"</p>
-
-<p>-- The MATE documentation team</p>
+  <p>-- The MATE documentation team</p>
 </page>
