@@ -32,6 +32,7 @@ HELP_FILES =                      \
     mate-overview.page            \
     mate-terminology.page         \
     mate-windows.page             \
+    mate-windows-lost.page        \
     mate-windows-maximize.page    \
     tips.page
 
