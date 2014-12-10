@@ -31,6 +31,7 @@ HELP_FILES =                      \
     mate-notifications.page       \
     mate-overview.page            \
     mate-windows.page             \
+    mate-windows-maximize.page    \
     tips.page
 
 HELP_LINGUAS =
