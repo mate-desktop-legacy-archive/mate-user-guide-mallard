@@ -1,0 +1,60 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="task"
+      id="mate-windows-lost">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-08" status="draft"/>
+
+    <link type="guide" xref="mate-windows#working-with-windows"/>
+
+    <desc>Check the other workspaces.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+  <title>Find a lost window</title>
+  <p>You may have put the window on a different workspace, or it might be
+  hidden behind another window. You can find it again visually by using the
+  Workspace Switcher or a few alternate methods.</p>
+
+  <steps>
+  <item>
+  <p>Visually examine the <link xref="mate-terminology">Workspace Switcher</link>
+  and see if it is presented. If the window you're looking for is visible there
+  just left click on it. it will be displayed here. Simply click the window
+  once you've found it to display it.</p>
+  </item>
+  <item>
+  <p>If it is not displayed here, it might be on a different workspace. Click
+  on the different workspaces (in the pictograms) available on the right-side
+  of the lower panel to try to find your window.</p>
+  </item>
+  <item>
+  <p>You can also right-click on the application in the lower panel if you see
+  it there. All open windows of an application on a given workspace will be
+  listed in the <em style="strong">MATE</em> <gui>Window List</gui>. You can click
+  on the window you wish to switch to by simply clicking the title.</p>
+  </item>
+  <item>
+  <p>If you are still not finding the desired window it may not be still be
+  running. To check for sure you can use <em>ps</em> from <em>Mate Terminal</em>.</p>
+  </item>
+ </steps>
+
+  <p> On a single workspace one method of finding a window is to use the
+  <keyseq><key>Alt</key><key>Tab</key></keyseq> window switcher. Hold down the
+  <key>Alt</key> key and press <key>Tab</key>. Still holding-down the
+  <key>Alt</key> key, press <gui>Tab</gui> to cycle through the list of open
+  windows, or <keyseq><key>Tab</key><key>Shift</key></keyseq> to cycle through
+  it backwards.</p>
+
+  <p>For more default keyboard shortcuts look <link xref="mate-keyboard-shortcuts">here</link>.</p>
+
+</page>
