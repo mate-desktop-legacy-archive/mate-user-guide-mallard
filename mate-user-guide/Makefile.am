@@ -37,6 +37,7 @@ HELP_FILES =                      \
     mate-windows-states.page      \
     mate-windows-switching.page   \
     mate-workspaces.page          \
+    mate-workspaces-movewindow    \
     tips.page
 
 HELP_LINGUAS =
