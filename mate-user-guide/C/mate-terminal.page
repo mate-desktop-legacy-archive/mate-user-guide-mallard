@@ -1,0 +1,242 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      style="tip"
+      id="mate-terminal">
+  <info>
+
+    <revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="stub"/>
+
+    <link type="guide" xref="index" group="mate-terminal"/>
+    <link type="guide" xref="more-help"/>
+
+    <title type='link'>Mate Terminal</title>
+    <title type='text'>Mate Terminal</title>
+    <title role="trail" type="link"/>
+
+    <desc>mate-terminal settings and more...</desc>
+
+    <credit type="author">
+      <name>MATE Documentation Team</name>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+  </info>
+
+  <title>Mate Terminal</title>
+
+    <comment>
+    <cite date="2014-12-10">Abel McClendon</cite>
+    <p>This page needs broken up into separate pages then linked properly.</p>
+    </comment>
+
+  <p><gui>mate-terminal</gui> provides an intuitive command line experience
+  for visual and work flow enhancement.</p>
+
+  <code><![CDATA[
+  mug@mate:~/dev/m-u-g/mate-user-guide/mate-user-guide/C$ cd
+  mug@mate:~$ cd dev/m-u-g/mate-user-guide/mate-user-guide/C
+  mug@mate:~/dev/m-u-g/mate-user-guide/mate-user-guide/C$
+  ]]></code>
+
+  <note><p>To hide the <em>Menu-Bar</em> press <keyseq><key>Alt</key><key>V</key></keyseq>then<keyseq><key>M</key></keyseq>(see <link href="#keyboard">Keyboard Shortcuts</link> below)</p></note>
+
+<links type="section" style="toronto"/>
+
+ <section id="tab">
+  <title>Tabs</title>
+  <desc>Using Tabs</desc>
+  <p>When using <gui>mate-terminal</gui> you can use you mouse to click on the menu-bar: <em>File</em> :: <em>Open Tab</em></p>
+  <p>If you have opened a tab you can choose with a mouse the tabs in the upper portion of the window below the menu-bar.</p>
+  <p>Alternatively use <code><keyseq><key>Alt</key><key>PgUp</key></keyseq></code> to get to the next tab.</p>
+  <p>Also you may use <code><keyseq><key>Alt</key><key>PgDwn</key></keyseq></code> to get to the previous tab.</p>
+  <note><p>not to be confused with bash aliases in <em>.bashrc</em></p></note>
+ </section>
+
+ <section id="search">
+  <title>Search</title>
+  <desc>Search in terminal</desc>
+  <p>To search the terminal press <keyseq><key>Shift</key><key>Ctl</key><key>F</key></keyseq></p>
+  <p><keyseq><key>Shift</key><key>Ctl</key><key>H</key></keyseq> will Find again.</p>
+  <p><keyseq><key>Shift</key><key>Ctl</key><key>G</key></keyseq>will find Previous!</p>
+  <p>Two alternate methods are available: </p>
+ <list>
+  <item><p>Navigating with the mouse to the menu bar <em>Search</em></p></item>
+  <item><p><keyseq><key>Alt</key><key>S</key></keyseq>then <keyseq><key>F</key></keyseq> will also open the <em>Search</em> dialog.</p></item>
+  </list>
+
+ </section>
+
+ <section id="profiles-prefs">
+  <title>Profile Preferences</title>
+  <desc>Set Profile Preferences</desc>
+  <p><keyseq><key>Alt</key><key>E</key></keyseq>then <keyseq><key>O</key></keyseq> will open a new dialog that will allow you to change the settings for the current profile.</p>
+ <p>As always you can navigate to the same screen with the mouse.</p>
+ </section>
+
+ <section id="profiles">
+  <title>Profiles</title>
+  <desc>Profile Information</desc>
+
+<p>Select <guiseq><gui style="menu">Search</gui> <gui
+      style="menuitem">Find</gui></guiseq>.</p>
+
+  <p><keyseq><key>Alt</key><key>T</key></keyseq>then <keyseq><key>R</key></keyseq> will open a new dialog that will allow you to do a number of things with your profile.</p>
+
+  <p>If you create a new profile you will be able to determine which one is set to the default as well.</p>
+
+  <p>Once that is done you can use <keyseq><key>Alt</key><key>T</key></keyseq>then <keyseq><key>&#8594;</key></keyseq> and select which profile you would like to use.</p>
+
+  <p>Always you can use the mouse to navigate the menus as well. We encourage you to investigate these menus and don't forget you can always click cancel(or a vacant space in the terminal) or press <keyseq><key>Esc</key></keyseq>.</p>
+ </section>
+
+ <section id="keyboard">
+  <title>Keyboard Shortcuts</title>
+  <desc>Useful shortcuts</desc>
+
+  <note><p>Always remember that if you close the <em>Menu-Bar</em> you can retrieve it with a right-click and select the <guiseq><gui style="checkbox">Show Menu Bar</gui>Checkbox</guiseq></p></note>
+
+
+  <p><keyseq><key>Alt</key><key>F</key></keyseq> will open the <guiseq><gui>MenuBar</gui><gui>File</gui></guiseq> section.</p>
+
+  <p><keyseq><key>Alt</key><key>E</key></keyseq> will open the <guiseq><gui>MenuBar</gui><gui>Edit</gui></guiseq> section.</p>
+
+  <p><keyseq><key>Alt</key><key>V</key></keyseq> will open the <guiseq><gui>MenuBar</gui><gui>View</gui></guiseq> section.</p>
+
+  <p><keyseq><key>Alt</key><key>S</key></keyseq> will open the <guiseq><gui>MenuBar</gui><gui>Search</gui></guiseq> section.</p>
+
+  <p><keyseq><key>Alt</key><key>H</key></keyseq> will open the <guiseq><gui>MenuBar</gui><gui>Help</gui></guiseq> section.</p>
+
+  <p><keyseq><key>Alt</key><key>F</key></keyseq>then <keyseq><key>T</key></keyseq> will open a new Terminal window.</p>
+
+  <p><keyseq><key>Alt</key><key>F</key></keyseq>then <keyseq><key>B</key></keyseq> will open a new Tab.</p>
+
+  <p><keyseq><key>Alt</key><key>F</key></keyseq>then <keyseq><key>P</key></keyseq> will open <em>New Profile</em> dialog window.</p>
+
+  <p>Switch to next profile: <keyseq><key>Alt</key><key>PgUp</key></keyseq></p>
+
+  <p>Switch to previous profile: <keyseq><key>Alt</key><key>PgDwn</key></keyseq></p>
+
+  <note><p>not to be confused with bash aliases in <em>.bashrc</em></p></note>
+
+</section>
+
+<section id="gsettings">
+  <title>gsettings</title>
+  <desc>Default cli options for gsettings</desc>
+  <p>gsetting default calls:</p>
+
+  <code><![CDATA[
+mug@mate:~/dev/m-u-g/$ gsettings list-recursively org.mate.terminal
+org.mate.terminal.keybindings new-profile 'disabled'
+org.mate.terminal.keybindings reset 'disabled'
+org.mate.terminal.keybindings zoom-out '<Ctrl>minus'
+org.mate.terminal.keybindings move-tab-left '<Ctrl><Shift>Page_Up'
+org.mate.terminal.keybindings zoom-normal '<Ctrl>0'
+org.mate.terminal.keybindings reset-and-clear 'disabled'
+org.mate.terminal.keybindings help 'F1'
+org.mate.terminal.keybindings prev-tab '<Control>Page_Up'
+org.mate.terminal.keybindings new-window '<Ctrl><Shift>n'
+org.mate.terminal.keybindings zoom-in '<Ctrl>plus'
+org.mate.terminal.keybindings copy '<Ctrl><Shift>c'
+org.mate.terminal.keybindings save-contents 'disabled'
+org.mate.terminal.keybindings full-screen 'F11'
+org.mate.terminal.keybindings next-profile '<Alt>Page_Down'
+org.mate.terminal.keybindings set-terminal-title 'disabled'
+org.mate.terminal.keybindings move-tab-right '<Ctrl><Shift>Page_Down'
+org.mate.terminal.keybindings close-window '<Ctrl><Shift>q'
+org.mate.terminal.keybindings switch-to-tab-1 '<Alt>1'
+org.mate.terminal.keybindings switch-to-tab-2 '<Alt>2'
+org.mate.terminal.keybindings switch-to-tab-3 '<Alt>3'
+org.mate.terminal.keybindings new-tab '<Ctrl><Shift>t'
+org.mate.terminal.keybindings switch-to-tab-11 'disabled'
+org.mate.terminal.keybindings switch-to-tab-12 'disabled'
+org.mate.terminal.keybindings paste '<Ctrl><Shift>v'
+org.mate.terminal.keybindings switch-to-tab-5 '<Alt>5'
+org.mate.terminal.keybindings detach-tab 'disabled'
+org.mate.terminal.keybindings close-tab '<Ctrl><Shift>w'
+org.mate.terminal.keybindings switch-to-tab-10 '<Alt>0'
+org.mate.terminal.keybindings switch-to-tab-6 '<Alt>6'
+org.mate.terminal.keybindings prev-profile '<Alt>Page_Up'
+org.mate.terminal.keybindings switch-to-tab-4 '<Alt>4'
+org.mate.terminal.keybindings switch-to-tab-9 '<Alt>9'
+org.mate.terminal.keybindings next-tab '<Control>Page_Down'
+org.mate.terminal.keybindings switch-to-tab-7 '<Alt>7'
+org.mate.terminal.keybindings switch-to-tab-8 '<Alt>8'
+org.mate.terminal.keybindings toggle-menubar 'disabled'
+org.mate.terminal.global default-profile 'default'
+org.mate.terminal.global confirm-window-close true
+org.mate.terminal.global active-encodings ['UTF-8', 'current']
+org.mate.terminal.global profile-list ['default']
+org.mate.terminal.global use-menu-accelerators true
+org.mate.terminal.global use-mnemonics true
+mug@mate:~/dev/m-u-g/$
+  ]]></code>
+ </section>
+
+<section id="cli">
+ <title>Command Line Interface</title>
+ <desc>Command Line Interface Options </desc>
+
+<code><![CDATA[
+mug@mate:~$ mate-terminal --help-all
+Usage:
+  mate-terminal [OPTION...]
+
+Help Options:
+  -h, --help                      Show help options
+  --help-all                      Show all help options
+  --help-terminal                 Show terminal options
+  --help-window-options           Show per-window options
+  --help-terminal-options         Show per-terminal options
+  --help-gtk                      Show GTK+ Options
+  --help-sm-client                Show session management options
+
+Options to open new windows or terminal tabs; more than one of these may be specified:
+  --window                        Open a new window containing a tab with the default profile
+  --tab                           Open a new tab in the last-opened window with the default profile
+
+Window options; if used before the first --window or --tab argument, sets the default for all windows:
+  --show-menubar                  Turn on the menubar
+  --hide-menubar                  Turn off the menubar
+  --maximize                      Maximize the window
+  --full-screen                   Full-screen the window
+  --geometry=GEOMETRY             Set the window size; for example: 80x24, or 80x24+200+200 (ROWSxCOLS+X+Y)
+  --role=ROLE                     Set the window role
+  --active                        Set the last specified tab as the active one in its window
+
+Terminal options; if used before the first --window or --tab argument, sets the default for all terminals:
+  -e, --command                   Execute the argument to this option inside the terminal
+  --profile=PROFILE-NAME          Use the given profile instead of the default profile
+  -t, --title=TITLE               Set the terminal title
+  --working-directory=DIRNAME     Set the working directory
+  --zoom=ZOOM                     Set the terminal's zoom factor (1.0 = normal size)
+
+GTK+ Options
+  --class=CLASS                   Program class as used by the window manager
+  --name=NAME                     Program name as used by the window manager
+  --screen=SCREEN                 X screen to use
+  --sync                          Make X calls synchronous
+  --gtk-module=MODULES            Load additional GTK+ modules
+  --g-fatal-warnings              Make all warnings fatal
+
+Session management options:
+  --sm-client-disable             Disable connection to session manager
+  --sm-client-state-file=FILE     Specify file containing saved configuration
+  --sm-client-id=ID               Specify session management ID
+
+Application Options:
+  --disable-factory               Do not register with the activation nameserver, do not re-use an active terminal
+  --load-config=FILE              Load a terminal configuration file
+  --save-config=FILE              Save the terminal configuration to a file
+  --display=DISPLAY               X display to use
+
+MATE Terminal Emulator
+
+
+]]></code>
+
+</section>
+
+</page>
