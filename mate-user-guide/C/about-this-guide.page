@@ -4,7 +4,7 @@
       id="about-this-guide">
   <info>>
 
-    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-10" status="draft"/>
+    <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-12" status="draft"/>
 
     <link type="guide" xref="more-help"/>
 
@@ -34,4 +34,7 @@
   <p>We now have a "m-u-g for our <em style="strong">MATE</em>"</p>
 
   <p>-- The MATE Documentation Team</p>
+
+  <p><link xref="about-this-guide-history">History about this guide</link></p>
+
 </page>
