@@ -1,6 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       type="guide"
-      style="tip"
+      style="task"
       id="mate-terminal">
   <info>
 
@@ -8,9 +8,10 @@
 
     <link type="guide" xref="index" group="mate-terminal"/>
     <link type="guide" xref="more-help"/>
+    <link type="guide" href="mate-terminal-mandoc"/>
 
-    <title type='link'>Mate Terminal</title>
-    <title type='text'>Mate Terminal</title>
+    <title type="link">Mate Terminal</title>
+    <title type="text">Mate Terminal</title>
     <title role="trail" type="link"/>
 
     <desc>mate-terminal settings and more...</desc>
@@ -42,27 +43,63 @@
 
   <note><p>To hide the <em>Menu-Bar</em> press <keyseq><key>Alt</key><key>V</key></keyseq>then<keyseq><key>M</key></keyseq>(see <link href="#keyboard">Keyboard Shortcuts</link> below)</p></note>
 
-<links type="section" style="toronto"/>
+<links type="section" style="toronto" />
 
  <section id="tab">
   <title>Tabs</title>
   <desc>Using Tabs</desc>
   <p>When using <gui>mate-terminal</gui> you can use you mouse to click on the menu-bar: <em>File</em> :: <em>Open Tab</em></p>
+
   <p>If you have opened a tab you can choose with a mouse the tabs in the upper portion of the window below the menu-bar.</p>
-  <p>Alternatively use <code><keyseq><key>Alt</key><key>PgUp</key></keyseq></code> to get to the next tab.</p>
-  <p>Also you may use <code><keyseq><key>Alt</key><key>PgDwn</key></keyseq></code> to get to the previous tab.</p>
-  <note><p>not to be confused with bash aliases in <em>.bashrc</em></p></note>
+
+  <p>Alternatively use <keyseq><key>Ctrl</key><key>PageUp</key></keyseq> to get to the next tab.</p>
+
+  <p>Also you may use <keyseq><key>Ctrl</key><key>PageDown</key></keyseq> to get to the previous tab.</p>
+
+  <p>When more than one tab is open you could press <keyseq><key>Alt</key><key>T</key></keyseq> to access the <guiseq><gui>MenuBar</gui><gui>File</gui></guiseq> section</p>
+
+  <p>Then there are several options besides the ones above:</p>
+
+  <list>
+  <item><p><keyseq><key>Shift</key><key>Ctrl</key><key>PageDown</key></keyseq> will move the current tab to the right.</p></item>
+
+  <item><p><keyseq><key>Shift</key><key>Ctrl</key><key>PageDown</key></keyseq> will move the current tab to the left.</p></item>
+
+  </list>
+
+  <p>Also to detach the current tab you could use <keyseq><key>Alt</key><key>B</key></keyseq>then <keyseq><key>D</key></keyseq> to detach the tab.</p>
+
+  <p>To access <gui>Tabs</gui> by number you could use: </p>
+
+  <list>
+  <item><p><keyseq><key>Alt</key><key>1</key></keyseq> or</p></item>
+
+  <item><p><keyseq><key>Alt</key><key>2</key></keyseq> or</p></item>
+
+  <item><p><keyseq><key>Alt</key><key>3</key></keyseq>...</p></item>
+
+  </list>
+
+
  </section>
 
  <section id="search">
+
   <title>Search</title>
+
   <desc>Search in terminal</desc>
-  <p>To search the terminal press <keyseq><key>Shift</key><key>Ctl</key><key>F</key></keyseq></p>
-  <p><keyseq><key>Shift</key><key>Ctl</key><key>H</key></keyseq> will Find again.</p>
-  <p><keyseq><key>Shift</key><key>Ctl</key><key>G</key></keyseq>will find Previous!</p>
+
+  <p>To search the terminal press <keyseq><key>Shift</key><key>Ctrl</key><key>F</key></keyseq></p>
+
+  <p><keyseq><key>Shift</key><key>Ctrl</key><key>H</key></keyseq> will Find again.</p>
+
+  <p><keyseq><key>Shift</key><key>Ctrl</key><key>G</key></keyseq>will find Previous!</p>
+
   <p>Two alternate methods are available: </p>
+
  <list>
   <item><p>Navigating with the mouse to the menu bar <em>Search</em></p></item>
+
   <item><p><keyseq><key>Alt</key><key>S</key></keyseq>then <keyseq><key>F</key></keyseq> will also open the <em>Search</em> dialog.</p></item>
   </list>
 
@@ -114,9 +151,9 @@
 
   <p><keyseq><key>Alt</key><key>F</key></keyseq>then <keyseq><key>P</key></keyseq> will open <em>New Profile</em> dialog window.</p>
 
-  <p>Switch to next profile: <keyseq><key>Alt</key><key>PgUp</key></keyseq></p>
+  <p>Switch to next profile: <keyseq><key>Alt</key><key>PageUp</key></keyseq></p>
 
-  <p>Switch to previous profile: <keyseq><key>Alt</key><key>PgDwn</key></keyseq></p>
+  <p>Switch to previous profile: <keyseq><key>Alt</key><key>PageDown</key></keyseq></p>
 
   <note><p>not to be confused with bash aliases in <em>.bashrc</em></p></note>
 
@@ -179,63 +216,7 @@ mug@mate:~/dev/m-u-g/$
  <title>Command Line Interface</title>
  <desc>Command Line Interface Options </desc>
 
-<code><![CDATA[
-mug@mate:~$ mate-terminal --help-all
-Usage:
-  mate-terminal [OPTION...]
-
-Help Options:
-  -h, --help                      Show help options
-  --help-all                      Show all help options
-  --help-terminal                 Show terminal options
-  --help-window-options           Show per-window options
-  --help-terminal-options         Show per-terminal options
-  --help-gtk                      Show GTK+ Options
-  --help-sm-client                Show session management options
-
-Options to open new windows or terminal tabs; more than one of these may be specified:
-  --window                        Open a new window containing a tab with the default profile
-  --tab                           Open a new tab in the last-opened window with the default profile
-
-Window options; if used before the first --window or --tab argument, sets the default for all windows:
-  --show-menubar                  Turn on the menubar
-  --hide-menubar                  Turn off the menubar
-  --maximize                      Maximize the window
-  --full-screen                   Full-screen the window
-  --geometry=GEOMETRY             Set the window size; for example: 80x24, or 80x24+200+200 (ROWSxCOLS+X+Y)
-  --role=ROLE                     Set the window role
-  --active                        Set the last specified tab as the active one in its window
-
-Terminal options; if used before the first --window or --tab argument, sets the default for all terminals:
-  -e, --command                   Execute the argument to this option inside the terminal
-  --profile=PROFILE-NAME          Use the given profile instead of the default profile
-  -t, --title=TITLE               Set the terminal title
-  --working-directory=DIRNAME     Set the working directory
-  --zoom=ZOOM                     Set the terminal's zoom factor (1.0 = normal size)
-
-GTK+ Options
-  --class=CLASS                   Program class as used by the window manager
-  --name=NAME                     Program name as used by the window manager
-  --screen=SCREEN                 X screen to use
-  --sync                          Make X calls synchronous
-  --gtk-module=MODULES            Load additional GTK+ modules
-  --g-fatal-warnings              Make all warnings fatal
-
-Session management options:
-  --sm-client-disable             Disable connection to session manager
-  --sm-client-state-file=FILE     Specify file containing saved configuration
-  --sm-client-id=ID               Specify session management ID
-
-Application Options:
-  --disable-factory               Do not register with the activation nameserver, do not re-use an active terminal
-  --load-config=FILE              Load a terminal configuration file
-  --save-config=FILE              Save the terminal configuration to a file
-  --display=DISPLAY               X display to use
-
-MATE Terminal Emulator
-
-
-]]></code>
+<p><link href="mate-terminal.1">mate-terminal man page</link></p>
 
 </section>
 
