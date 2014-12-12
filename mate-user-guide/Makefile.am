@@ -33,6 +33,7 @@ HELP_FILES =                               \
     mate-keyboard-shortcuts.page           \
     mate-notifications.page                \
     mate-overview.page                     \
+    mate-terminal.page                     \
     mate-terminology.page                  \
     mate-windows.page                      \
     mate-windows-lost.page                 \
