@@ -25,6 +25,7 @@ HELP_FILES =                               \
     about-this-guide.page                  \
     about-this-guide-history.page          \
     about-this-guide-history-authors.page  \
+    get-involved.page                      \
     index.page                             \
     mate-apps-favorites.page               \
     mate-apps-open.page                    \
