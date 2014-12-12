@@ -1,4 +1,4 @@
-SUBDIRS = mate-user-guide
+SUBDIRS = mate-user-guide po
 
 @INTLTOOL_DESKTOP_RULE@
 desktopdir = $(datadir)/applications
