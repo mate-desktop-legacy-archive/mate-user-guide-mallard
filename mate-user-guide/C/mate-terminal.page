@@ -7,7 +7,6 @@
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-10" status="draft"/>
 
     <link type="guide" xref="index" group="mate-terminal"/>
-    <link type="guide" xref="more-help"/>
     <link type="guide" href="mate-terminal-mandoc"/>
 
     <title type="link">Mate Terminal</title>
