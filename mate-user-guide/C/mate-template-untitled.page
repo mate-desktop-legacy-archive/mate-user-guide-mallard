@@ -21,6 +21,15 @@
 
 <title>About this generic template</title>
 
+<p>A mallard page always begins with a page tag... we prefer each item to be on one line with id="name@page" last with closing '>' . The <em>info</em> tag should immediately follow this on a new line :</p>
+<code><![CDATA[
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      style="tip"
+      id="mate-template-untitled">
+  <info>
+]]></code>
+
 <p>A revision line should follow the info tag with a blank line in between like so:</p>
 
 <code><![CDATA[
@@ -48,16 +57,23 @@
     </credit>
 ]]></code>
 
+<p>Here is an example of a note that will only appear when yelp is started in <em>--editor-mode</em>.</p>
+<comment>
+  <cite date="2014-12-13">MotoHoss</cite>
+  <p>More work is needed on this page. Link examples especially.</p>
+</comment>
+<code><![CDATA[
+<comment>
+  <cite date="2014-12-13">MotoHosss</cite>
+  <p>More work is needed on this page. Link examples especially.</p>
+</comment>
+]]></code>
 
 
   <p>This page is written to assist you in building a <em style="strong">.page</em>
   for the mate-user-guide or any <em style="strong">MATE</em> help page.
   We invite you to assist us in making it better. We will continue to add more
   and new things to this page.</p>
-
-  <p>Intentionally on this page we will not directly link but to one page in
-  our guide. We will put in comments so you can hopefully get a general idea of
-  how our guide should look and feel.</p>
 
   <p>Thank you for taking the time to view the template.</p>
 
