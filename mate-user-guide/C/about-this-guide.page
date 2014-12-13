@@ -6,9 +6,9 @@
 
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-12" status="draft"/>
 
-    <link type="guide" xref="more-help"/>
+    <link type="guide" xref="index"/>
 
-    <desc>A little information about this desktop help guide.</desc>
+    <desc>A little information about the <em style="strong">M-U-G</em> (<em>Mate User Guide</em>).</desc>
 
     <credit type="author">
       <name>MATE Documentation Team</name>
@@ -35,6 +35,6 @@
 
   <p>-- The MATE Documentation Team</p>
 
-  <p><link xref="about-this-guide-history">History about this guide</link></p>
+  <p><link style="center" xref="about-this-guide-history">History about this guide</link></p>
 
 </page>
