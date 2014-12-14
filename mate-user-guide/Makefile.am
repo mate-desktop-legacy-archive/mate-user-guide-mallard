@@ -34,6 +34,7 @@ HELP_FILES =                               \
     mate-keyboard-shortcuts.page           \
     mate-notifications.page                \
     mate-overview.page                     \
+    mate-template-untitled.page            \
     mate-terminal.1                        \
     mate-terminal.page                     \
     mate-terminology.page                  \
