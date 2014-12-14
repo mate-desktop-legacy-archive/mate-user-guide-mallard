@@ -22,9 +22,10 @@ HELP_MEDIA =                                     \
 
 HELP_FILES =                               \
     legal.xml                              \
-    about-this-guide.page                  \
-    about-this-guide-history.page          \
+    mate-terminal.1                        \
     about-this-guide-history-authors.page  \
+    about-this-guide-history.page          \
+    about-this-guide.page                  \
     get-involved.page                      \
     index.page                             \
     mate-apps-favorites.page               \
@@ -35,16 +36,15 @@ HELP_FILES =                               \
     mate-notifications.page                \
     mate-overview.page                     \
     mate-template-untitled.page            \
-    mate-terminal.1                        \
     mate-terminal.page                     \
     mate-terminology.page                  \
-    mate-windows.page                      \
     mate-windows-lost.page                 \
     mate-windows-maximize.page             \
+    mate-windows.page                      \
     mate-windows-states.page               \
     mate-windows-switching.page            \
-    mate-workspaces.page                   \
     mate-workspaces-movewindow.page        \
+    mate-workspaces.page                   \
     more-help.page                         \
     tips.page
 
