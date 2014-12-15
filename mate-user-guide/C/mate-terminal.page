@@ -215,7 +215,7 @@ mug@mate:~/dev/m-u-g/$
  <title>Command Line Interface</title>
  <desc>Command Line Interface Options </desc>
 
-<p><link href="mate-terminal.1">mate-terminal man page</link></p>
+<p><link href="man:mate-terminal">mate-terminal man page</link></p>
 
 </section>
 
