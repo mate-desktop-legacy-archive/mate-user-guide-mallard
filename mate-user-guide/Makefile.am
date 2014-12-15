@@ -22,7 +22,6 @@ HELP_MEDIA =                                     \
 
 HELP_FILES =                               \
     legal.xml                              \
-    mate-terminal.1                        \
     about-this-guide-history-authors.page  \
     about-this-guide-history.page          \
     about-this-guide.page                  \
