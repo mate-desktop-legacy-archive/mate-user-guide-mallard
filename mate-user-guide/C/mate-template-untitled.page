@@ -35,7 +35,7 @@
 <code><![CDATA[
 <info>
 
-<revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="stub"/>
+<revision pkgversion="0.0.1" version="0.0.1" date="2014-12-10" status="@status@"/>
 
 ]]></code>
 
