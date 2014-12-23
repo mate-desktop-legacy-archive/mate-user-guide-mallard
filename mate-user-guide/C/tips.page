@@ -17,10 +17,16 @@
     </credit>
 
     <desc>
-    <link xref="tips-specialchars">Special characters</link>,
-    <link xref="mouse-middleclick">middle click shortcuts</link>
+    <link xref="mate-keyboard-shortcuts">Useful keyboard shortcuts</link>
+    <!-- <link xref="tips-specialchars">Special characters</link>, -->
+    <!-- <link xref="mouse-middleclick">middle click shortcuts</link> -->
     ...</desc>
   </info>
 
   <title>Tips &amp; tricks</title>
+  <p>Just a few odds and ends of quick tips.</p>
+  <comment>
+  <cite date="2014-12-20">MotoHosss</cite>
+  <p>draft- improvements here will come. Will comment out non ported files for now. This will insure that links work when building with yelp-build. It will also make it easier to track.</p>
+</comment>
 </page>
