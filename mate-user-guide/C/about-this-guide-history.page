@@ -7,8 +7,9 @@
     <revision pkgversion="0.0.1" version="0.0.2" date="2014-12-10" status="draft"/>
 
     <link type="guide" xref="about-this-guide"/>
+    <link type="guide" xref="more-help"/>
 
-    <desc>History of this guide</desc>
+    <desc>A history of this guide</desc>
 
     <credit type="author">
       <name>MATE Documentation Team</name>
@@ -20,7 +21,7 @@
 
   </info>
 
-<title>History about this guide</title>
+<title>History of this guide</title>
 
   <p>This guide was originally developed by the gnome project. This guide's
   original source can be found here:
@@ -42,5 +43,7 @@
 
 <p>-- The MATE Documentation Team</p>
 <p><link xref="about-this-guide-history-authors">Author History</link></p>
+
+<link type="topic" style="toronto" groups="more-help"/>
 
 </page>
