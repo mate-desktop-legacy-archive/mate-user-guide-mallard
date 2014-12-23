@@ -1,6 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="topic"
-      style="tip"
+      type="guide"
+      style="index"
       id="about-this-guide">
   <info>>
 
@@ -35,6 +35,7 @@
 
   <p>-- The MATE Documentation Team</p>
 
-  <p><link style="center" xref="about-this-guide-history">History about this guide</link></p>
+
+  <links type="topic" style="toronto" groups="about-this-guide"/>
 
 </page>
