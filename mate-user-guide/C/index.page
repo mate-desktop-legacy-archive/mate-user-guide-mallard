@@ -20,15 +20,14 @@
         <span its:translate="yes">Help</span></media></title>
 
         <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
-<comment>
-  <cite date="2014-12-11">MotoHosss</cite>
-  <p>draft update - improvements welcome. We also need to get the wiki to match this. There is some information that needs to be incorporated into the m-u-g on the wiki(http://wiki.mate-desktop.org/docs)</p>
-</comment>
 
   </info>
 
   <title><media its:translate="no" type="image" src="figures/mate-yelp-icon-big.png"><span its:translate="yes">Yelp logo</span></media> MATE User Guide</title>
-
+<comment>
+  <cite date="2014-12-11">MotoHosss</cite>
+  <p>draft update - improvements welcome. We also need to get the wiki to match this. There is some information that needs to be incorporated into the m-u-g on the wiki(http://wiki.mate-desktop.org/docs)</p>
+</comment>
   <links type="topic" style="mouseovers"
        groups="mate-overview mate-introduction mate-apps-open
        mate-windows mate-exit">
@@ -39,8 +38,8 @@
   <e:mouseover match="mate-windows" src="figures/mate-default-desktop-home.png"/>
   <e:mouseover match="mate-exit" src="figures/mate-exit.png"/>
   </links>
-  <links type="topic" style="toronto" groups="
-       net media files
-       prefs hardware
-       a11y tips more-help"/>
+  <links type="topic"
+        style="toronto"
+       groups="tips more-help about-this-guide"/>
+
 </page>
