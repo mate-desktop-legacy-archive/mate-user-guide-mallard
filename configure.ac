@@ -1,5 +1,5 @@
 AC_INIT([mate-user-guide], [1.9.1], [https://github.com/mate-desktop/mate-user-guide/issues/new])
-AM_INIT_AUTOMAKE([1.9 dist-xz no-dist-gzip])
+AM_INIT_AUTOMAKE([1.11 dist-xz no-dist-gzip])
 AM_SILENT_RULES([yes])
 
 YELP_HELP_INIT
