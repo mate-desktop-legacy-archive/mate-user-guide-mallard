@@ -12,15 +12,6 @@
     <desc>Learn how to leave your user account, by logging out,
     switching users, and/or shutting off the computer.</desc>
 
-<comment>
-  <cite date="2014-12-04">MotoHosss</cite>
-  <p>The following comment is from the original source- I do think this
-  page could use more links to other pages in the guide. Also since we
-  do not ship our own "switch user display manager" the instructions may
-  vary."</p>
-</comment>
-    <!-- Should this be a guide which links to other topics? -->
-
     <credit type="author">
       <name>Mate Documentation Team</name>
       <years>2014</years>
@@ -32,8 +23,9 @@
 <title>Log out, power off, switch users</title>
 
 <comment>
-  <cite date="2014-12-01">MotoHosss</cite>
-  <p> Initial Port more work is needed on this page - more links.</p>
+  <cite date="2015-01-29">MotoHoss</cite>
+  <p> Initial Port more work is needed on this page - more links to other guide pages.</p>
+  <p>Also since we do not ship our own "switch user display manager" the instructions may vary."</p>
 </comment>
 
 <p>When you've finished using your computer, you can turn it off, suspend it
