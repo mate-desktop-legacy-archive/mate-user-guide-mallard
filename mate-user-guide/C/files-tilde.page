@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" id="files-tilde">
+
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <link type="guide" xref="files#faq"/>
+    <link type="seealso" xref="files-hidden"/>
+    <desc>These are backup files. They are hidden by default.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>Phil Bull</name>
+      <email>philbull@gmail.com</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 3.0</p>
+    </license>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>What is a file with a "~" at the end of its name?</title>
+
+<note>
+<p>Files with a "~" at the end of their names (for example, <file>example.txt~</file>) are automatically created backup copies of documents edited in the <app>Gedit</app> text editor, as well as in other applications. It is normally safe to delete them, but there really is no need to. </p>
+
+<p>These files are hidden by default. If you are seeing them, that is because you either selected <guiseq><gui>View</gui><gui>Hidden Files</gui></guiseq> or pressed <keyseq><key>Ctrl</key><key>H</key></keyseq>. You can hide them again by repeating one of these steps. </p>
+</note>
+
+<p>These files are treated in the same way as normal hidden files. See <link xref="files-hidden"/> for advice on dealing with hidden files.</p>
+
+</page>
