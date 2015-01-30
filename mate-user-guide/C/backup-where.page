@@ -1,0 +1,59 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" id="backup-where">
+
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <link type="guide" xref="backup-why"/>
+    <desc>Advice on where to store your backups and what storage device to use.</desc>
+    <title type="sort">c</title>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <years>2011</years>
+    </credit>
+    <credit type="author">
+      <name>Tiffany Antopolski</name>
+      <years>2011</years>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>Where to store your backup</title>
+x    <p>
+    You should store backup copies of your files somewhere separate from your computer (on an external hard disk, for example). An important consideration when choosing the backup medium is capacity. This will depend on how much data you need to back up.
+    </p>
+
+   <list>
+    <title>Local and remote storage options</title>
+    <item>
+      <p>A USB memory key (low capacity)</p>
+    </item>
+    <item>
+      <p>An internal disk drive (higher capacity)</p>
+    </item>
+    <item>
+      <p>An external USB drive (variable capacity, but can be very high)</p>
+    </item>
+    <item>
+      <p>A network drive (high capacity)</p>
+    </item>
+    <item>
+      <p>A file/backup server</p>
+    </item>
+    <item>
+     <p>Writable CDs or DVDs</p>
+    </item>
+    <item>
+     <p>An online backup service like <link href = "http://aws.amazon.com/s3/">Amazon S3</link> or <link href="https://one.ubuntu.com/">Ubuntu One</link> (stores your data off-site for a small fee)</p>
+    </item>
+   </list>
+<p>
+Some of these would allow for a backup of every file on your system, also known as a <em>complete system backup</em>.
+</p>
+</page>
