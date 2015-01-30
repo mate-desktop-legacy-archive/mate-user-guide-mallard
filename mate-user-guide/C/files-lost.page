@@ -1,0 +1,51 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="files-lost">
+
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <link type="guide" xref="files" group="more"/>
+
+    <desc>Follow these tips if you can't find a file you created or downloaded.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <years>2011</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Find a lost file</title>
+
+<p>If you created or downloaded a file, but now you can't find it,
+follow these tips.</p>
+
+<list>
+  <item><p>If you don't remember where you saved the file, but you
+  have some idea of how you named it, you can search for the file
+  by name. See <link xref="files-search"/> to learn how.</p></item>
+
+  <item><p>If you just downloaded the file, your web browser might
+  have automatically saved it to a common folder. Check the
+  <file>Desktop</file> and <file>Downloads</file> folders in your
+  home folder.</p></item>
+
+  <item><p>You might have accidentally deleted the file. When you delete
+  a file, it gets moved to the trash, where it stays until you manually
+  empty the trash. See <link xref="files-recover"/> to learn how to
+  recover a deleted file.</p></item>
+
+  <item><p>You might have renamed the file in a way that made the file hidden.
+  Files that start with a <file>.</file> or end with a <file>~</file> are hidden
+  in the file manager. Click <guiseq><gui>View</gui><gui>Show Hidden Files</gui></guiseq>
+  in the file manager. See <link xref="files-hidden"/> to learn more.</p></item>
+</list>
+
+</page>

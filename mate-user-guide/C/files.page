@@ -1,0 +1,61 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="files">
+
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <link type="guide" xref="index" group="files"/>
+    <link type="guide" xref="mate-overview#files"/>
+    <desc>
+      <link xref="files-search">Searching</link>,
+      <link xref="files-delete">deleted files</link>,
+      <link xref="files#backup">backups</link>,
+      <link xref="files#removable">removable drives</link>...
+    </desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <years>2011</years>
+    </credit>
+
+    <title type="link" role="trail">Files</title>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Files, folders &amp; search</title>
+
+<media type="image" src="figures/caja.png" style="floatright" width="275" height="255">
+  <p><app>Caja</app> file manager</p>
+</media>
+
+<links type="topic" style="linklist nodesc bold">
+  <title>Common tasks</title>
+</links>
+
+<links type="topic" groups="more" style="linklist nodesc bold">
+  <title>More topics</title>
+</links>
+
+<section id="removable">
+  <title>Removable drives and external disks</title>
+  <links type="topic" style="2column"/>
+</section>
+
+<section id="backup">
+  <title>Backing up</title>
+  <links type="topic" style="2column"/>
+</section>
+
+<section id="faq">
+  <title>Tips and questions</title>
+  <links type="topic" style="2column"/>
+</section>
+
+</page>
