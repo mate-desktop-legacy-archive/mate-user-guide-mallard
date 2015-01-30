@@ -1,0 +1,82 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="files-rename">
+
+  <info>
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <link type="guide" xref="files"/>
+    <desc>Change file or folder name.</desc>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>GNOME Documentation Project</name>
+      <years>2011</years>
+    </credit>
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <years>2011</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>Rename a file or folder</title>
+
+  <steps>
+    <item><p>Right-click on a file or folder and select <gui>Rename</gui>,
+    or select the file and press <key>F2</key>.</p></item>
+    <item><p>Type the new name and press <key>Enter</key>.</p></item>
+  </steps>
+
+  <p>You can also rename a file from the
+  <link xref="caja-file-properties-basic#rename">properties</link> window.</p>
+
+  <p>When you rename a file, only the first part of the name of the file is selected, not the file extension (the part after the "."). The extension normally denotes what type of file it is (e.g. <file>file.pdf</file> is a PDF document), and you usually do not want to change that. If you need to change the extension as well, select it with your mouse, or press <keyseq><key>Ctrl</key><key>A</key></keyseq> to select the entire file name.</p>
+
+  <section id="valid-chars">
+    <title>Valid characters for file names</title>
+    <p>You can use any character except the <key>/</key> (slash) character in file names.
+    Some devices, however, use a <em>file system</em> that has more restrictions on file
+    names. For example, USB flash drives are often formatted with the <em>FAT32</em> file
+    system. On these devices, or if you intend to share files with people who use another
+    operating system, you should avoid the following characters:
+    <key>|</key>, <key>\</key>, <key>?</key>, <key>*</key>, <key>&lt;</key>, <key>"</key>,
+    <key>:</key>, <key>&gt;</key>, <key>/</key>.</p>
+
+    <note style="warning">
+    <p> If you name a file with a <key>.</key> as the first character, the file will be
+    <link xref="files-hidden">hidden</link>.</p>
+    </note>
+  </section>
+
+  <section id="common-probs">
+    <title>Common problems</title>
+    <terms>
+      <item>
+        <title>The name is already used</title>
+        <p>You can't have two files or folders with the same name in the same folder.
+        If you try to rename a file to a name that already exists in the folder you
+        are working in, the file manager will not allow it.  Use a different name.</p>
+        <p>File and folder names are case sensitive. For example, <file>File.txt</file>
+        and <file>file.txt</file> are different names.  This is allowed, though it's
+        not always a good idea.</p>
+      </item>
+      <item>
+        <title>File name too long</title>
+        <p>On some file systems, file names can have no more than 255 characters in their names.  Use a shorter name.</p>
+      </item>
+      <item>
+        <title>The option to rename is grayed out</title>
+        <p>If <gui>Rename</gui> is grayed out, you do not have permission to rename
+        the file.  Generally, if you do not have the correct permissions to rename
+        a file, you should not be renaming it.
+        See <link xref="caja-file-properties-permissions"/>.</p>
+      </item>
+    </terms>
+  </section>
+</page>
