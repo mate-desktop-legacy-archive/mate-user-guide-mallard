@@ -3,30 +3,57 @@
 HELP_ID = mate-user-guide
 
 HELP_MEDIA =                                     \
-    figures/mate-yelp-icon-big.png               \
+    figures/caja.png                             \
+    figures/mate-add-to-panel-rtclick.png        \
     figures/mate-caja-default-computer-view.png  \
-    figures/mate-default-top-panel.png           \
-    figures/mate-panel-applications.png          \
-    figures/mate-default-desktop-home.png        \
-    figures/mate-exit.png                        \
-    figures/mate-panel-places.png                \
-    figures/mate-default-desktop.png             \
-    figures/mate-logo.png                        \
-    figures/mate-panel-workspaceswitcher.png     \
-    figures/mate-panel-windowlist.png            \
-    figures/mate-default-lower-panel.png         \
-    figures/mate-control-center.png              \
     figures/mate-clock-prefs-general.png         \
-    figures/mate-add-to-panel-rtclick.png
+    figures/mate-control-center.png              \
+    figures/mate-default-desktop-home.png        \
+    figures/mate-default-desktop.png             \
+    figures/mate-default-lower-panel.png         \
+    figures/mate-default-top-panel.png           \
+    figures/mate-exit.png                        \
+    figures/mate-logo.png                        \
+    figures/mate-panel-applications.png          \
+    figures/mate-panel-places.png                \
+    figures/mate-panel-windowlist.png            \
+    figures/mate-panel-workspaceswitcher.png     \
+    figures/mate-yelp-icon-big.png
 
 
 HELP_FILES =                               \
-    legal.xml                              \
     about-this-guide-history-authors.page  \
     about-this-guide-history.page          \
     about-this-guide.page                  \
+    backup-check.page                      \
+    backup-frequency.page                  \
+    backup-how.page                        \
+    backup-restore.page                    \
+    backup-thinkabout.page                 \
+    backup-what.page                       \
+    backup-where.page                      \
+    backup-why.page                        \
+    files-autorun.page                     \
+    files-browse.page                      \
+    files-copy.page                        \
+    files-delete.page                      \
+    files-disc-write.page                  \
+    files-hidden.page                      \
+    files-lost.page                        \
+    files-open.page                        \
+    files.page                             \
+    files-preview-music.page               \
+    files-recover.page                     \
+    files-removedrive.page                 \
+    files-rename.page                      \
+    files-search.page                      \
+    files-select.page                      \
+    files-share.page                       \
+    files-sort.page                        \
+    files-tilde.page                       \
     get-involved.page                      \
     index.page                             \
+    legal.xml                              \
     mate-apps-favorites.page               \
     mate-apps-open.page                    \
     mate-exit.page                         \
