@@ -33,6 +33,11 @@ HELP_FILES =                               \
     backup-what.page                       \
     backup-where.page                      \
     backup-why.page                        \
+    caja-behavior.page                     \
+    caja-connect.page                      \
+    caja-display.page                      \
+    caja-file-properties-permissions.page  \
+    caja-views.page                        \
     files-autorun.page                     \
     files-browse.page                      \
     files-copy.page                        \
