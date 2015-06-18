@@ -33,12 +33,6 @@ your home folder, on external devices, on
 <link xref="caja-connect">file servers</link>, and across
 your computer's file system.</p>
 
-<p>Browse files by selecting the <app>Files</app> application in the
-<gui>Activities</gui> overview. Or, search for folders and devices in
-the overview the same way you would <link xref="shell-apps-open">search
-for applications</link>. They will appear under the heading
-<gui>Places and Devices</gui>.</p>
-
 <p>In the file manager, double-click any folder to view its contents,
 and double-click any file to open it with the default application for
 that file. You can also right-click a folder to open it in a new tab

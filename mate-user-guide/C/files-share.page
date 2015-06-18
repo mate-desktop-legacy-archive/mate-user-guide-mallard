@@ -36,8 +36,7 @@ external devices or <link xref="caja-connect">network shares</link>
 directly from the file manager.</p>
 
 <steps>
-  <item><p>Open the <app>Files</app> application from the <gui>Activities</gui>
-  overview.</p></item>
+  <item><p>Open the <app>Files</app> application from the menu</p></item>
   <item><p>Locate the file you want to transfer.</p></item>
   <item><p>Right-click the file and select <gui>Send To</gui>.</p></item>
   <item><p>The <gui>Send To</gui> window will appear. Choose where you
@@ -61,9 +60,6 @@ directly from the file manager.</p>
   to work.</p></item>
   <item><p>To write the file to a CD or DVD, select <gui>CD/DVD Creator</gui>.
   See <link xref="files-disc-write"/> to learn more.</p></item>
-  <item><p>To transfer the file to a Bluetooth device, select
-  <gui>Bluetooth (OBEX Push)</gui>. See <link xref="hardware#bluetooth"/>
-  for more information.</p></item>
   <item><p>To copy the file to an external device like a USB flash drive,
   or to upload it to a server you've connected to, select <gui>Removable
   disks and shares</gui>, then select the device or server you want to

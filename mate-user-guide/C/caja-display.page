@@ -1,0 +1,57 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="topic" style="ui"
+      id="caja-display">
+
+  <info>
+    <link type="guide" xref="caja-prefs" group="caja-display"/>
+
+    <desc>Control icon captions used in the file manager.</desc>
+
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>File manager display preferences</title>
+
+<p>You can control how the file manager displays captions under icons.  Click
+<gui>Files</gui> in the top bar, pick <gui>Preferences</gui> and select the
+<gui>Display</gui> tab.</p>
+
+<section id="icon-captions">
+  <title>Icon captions</title>
+  <media type="image" src="figures/caja-icons.png"
+         width="250" height="110" style="floatend floatright">
+    <p>File manager icons with captions</p>
+  </media>
+  <p>When you use icon view, you can choose to have extra information about
+  files and folders displayed in a caption under each icon. This is useful,
+  for example, if you often need to see who owns a file or when it was last
+  modified.</p>
+  <p>You can zoom in a folder by clicking the
+  <media its:translate="no" type="image" src="figures/go-down.png"><span its:translate="yes">down</span></media> button in the
+  toolbar and choosing one of the <gui>Zoom</gui> options. As you zoom in, the
+  file manager will display more and more information in captions. You can
+  choose up to three things to show in captions. The first will be displayed at
+  most zoom levels. The last will only be shown at very large sizes.</p>
+  <p>The information you can show in icon captions is the same as the
+  columns you can use in list view. See <link xref="caja-list"/>
+  for more information.</p>
+  <note><p>If you have a file manager window open, you may have to reload for icon
+  caption changes to take effect. Click <guiseq><gui>View</gui><gui>Reload</gui></guiseq>
+  or press <keyseq><key>Ctrl</key><key>R</key></keyseq>.</p></note>
+</section>
+
+</page>
