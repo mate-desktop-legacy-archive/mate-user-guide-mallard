@@ -37,6 +37,8 @@ HELP_FILES =                               \
     caja-connect.page                      \
     caja-display.page                      \
     caja-file-properties-permissions.page  \
+    caja-list.page                         \
+    caja-preview.page                      \
     caja-views.page                        \
     files-autorun.page                     \
     files-browse.page                      \

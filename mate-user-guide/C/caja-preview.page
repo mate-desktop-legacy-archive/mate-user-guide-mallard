@@ -1,0 +1,61 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="ui"
+      id="caja-preview">
+
+  <info>
+    <link type="guide" xref="caja-prefs" group="caja-preview"/>
+
+    <desc>Control when thumbnails are used for files.</desc>
+
+    <revision pkgversion="0.0.1" version="0.0.3" date="2015-01-28" status="draft"/>
+
+    <credit type="author">
+      <name>Mate Documentation Team</name>
+      <years>2015</years>
+    </credit>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email>shaunm@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email>mdhillca@gmail.com</email>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+    <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0"
+               xmlns:xlink="http://www.w3.org/1999/xlink"
+               xlink:type="simple" xlink:href="gnome-help.its"/>
+  </info>
+
+<title>File manager preview preferences</title>
+
+<p>The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click <gui>Files</gui> in the top bar,
+pick <gui>Preferences</gui> and select the <gui>Preview</gui> tab.</p>
+
+<terms>
+  <item>
+    <title><gui>Files</gui></title>
+    <p>By default, all previews are done for <gui>Local Files Only</gui>, those
+    on your computer or connected external drives. You can set this feature to
+    <gui>Always</gui> or <gui>Never</gui>. The file manager can
+    <link xref="caja-connect">browse files on other computers</link> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <gui>Always</gui>.</p>
+    <p>In addition, you can use the <gui>Only for files smaller than</gui>
+    setting to limit the size of files previewed.</p>
+  </item>
+  <item>
+    <title><gui>Folders</gui></title>
+    <p>If you show file sizes in <link xref="caja-list">list view columns</link>
+    or <link xref="caja-display#icon-captions">icon captions</link>, folders will
+    be shown with a count of how many files and folders they contain. Counting items
+    in a folder can be slow, especially for very large folders, or over a network.
+    You can turn this feature on or off, or turn it on only for files on your
+    computer and local external drives.</p>
+  </item>
+</terms>
+</page>
