@@ -79,6 +79,7 @@ HELP_FILES =                               \
     mate-workspaces-movewindow.page        \
     mate-workspaces.page                   \
     more-help.page                         \
+    screenshot.page                        \
     tips.page
 
 HELP_LINGUAS =
